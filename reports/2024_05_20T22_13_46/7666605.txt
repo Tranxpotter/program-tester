@@ -1,0 +1,15 @@
+**total score: 9**
+-------------------------------
+task 1:
+-------------------------------
+case |      status      |       time (s)       |note
+    1|  Correct Answer  | 0.032608985900878906 |
+    2|  Correct Answer  | 0.03445935249328613  |
+    3|  Correct Answer  | 0.03220033645629883  |
+    4|  Correct Answer  | 0.03271603584289551  |
+    5|  Correct Answer  |  0.0340876579284668  |
+    6|  Correct Answer  | 0.03186964988708496  |
+    7|   Wrong Answer   | 0.034766197204589844 |
+    8|  Correct Answer  | 0.032807111740112305 |
+    9|  Correct Answer  | 0.03402233123779297  |
+   10|  Correct Answer  | 0.03216671943664551  |

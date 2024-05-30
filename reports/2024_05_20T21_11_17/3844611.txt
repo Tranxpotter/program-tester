@@ -1,0 +1,39 @@
+**total score: 0**
+-------------------------------
+task 1:
+-------------------------------
+case |      status      |       time (s)       |note
+    1|   Wrong Answer   | 0.03692936897277832  |
+    2|   Wrong Answer   | 0.03430438041687012  |
+    3|   Wrong Answer   | 0.03596019744873047  |
+    4|   Wrong Answer   | 0.03368377685546875  |
+    5|   Wrong Answer   | 0.038672685623168945 |
+    6|   Wrong Answer   | 0.03604269027709961  |
+    7|   Wrong Answer   | 0.03430366516113281  |
+    8|   Wrong Answer   | 0.032590389251708984 |
+task 2:
+-------------------------------
+case |      status      |       time (s)       |note
+    1|   Syntax Error   | 0.03296828269958496  |  line 3     int(N) = range(0,101) = input()     ^^^^^^ SyntaxError: cannot assign to function call 
+    2|   Syntax Error   | 0.03735685348510742  |  line 3     int(N) = range(0,101) = input()     ^^^^^^ SyntaxError: cannot assign to function call 
+    3|   Syntax Error   |  0.0272674560546875  |  line 3     int(N) = range(0,101) = input()     ^^^^^^ SyntaxError: cannot assign to function call 
+    4|   Syntax Error   | 0.038079261779785156 |  line 3     int(N) = range(0,101) = input()     ^^^^^^ SyntaxError: cannot assign to function call 
+    5|   Syntax Error   | 0.03240633010864258  |  line 3     int(N) = range(0,101) = input()     ^^^^^^ SyntaxError: cannot assign to function call 
+    6|   Syntax Error   | 0.032807111740112305 |  line 3     int(N) = range(0,101) = input()     ^^^^^^ SyntaxError: cannot assign to function call 
+    7|   Syntax Error   |   0.04010009765625   |  line 3     int(N) = range(0,101) = input()     ^^^^^^ SyntaxError: cannot assign to function call 
+    8|   Syntax Error   | 0.041792869567871094 |  line 3     int(N) = range(0,101) = input()     ^^^^^^ SyntaxError: cannot assign to function call 
+    9|   Syntax Error   | 0.03612947463989258  |  line 3     int(N) = range(0,101) = input()     ^^^^^^ SyntaxError: cannot assign to function call 
+   10|   Syntax Error   | 0.03460502624511719  |  line 3     int(N) = range(0,101) = input()     ^^^^^^ SyntaxError: cannot assign to function call 
+task 3:
+-------------------------------
+case |      status      |       time (s)       |note
+    1|   Syntax Error   |    0.042236328125    |  line 6     def add(num1, num2)                        ^ SyntaxError: expected ':' 
+    2|   Syntax Error   | 0.035213470458984375 |  line 6     def add(num1, num2)                        ^ SyntaxError: expected ':' 
+    3|   Syntax Error   |  0.0368194580078125  |  line 6     def add(num1, num2)                        ^ SyntaxError: expected ':' 
+    4|   Syntax Error   | 0.03821825981140137  |  line 6     def add(num1, num2)                        ^ SyntaxError: expected ':' 
+    5|   Syntax Error   | 0.04680132865905762  |  line 6     def add(num1, num2)                        ^ SyntaxError: expected ':' 
+    6|   Syntax Error   | 0.03753781318664551  |  line 6     def add(num1, num2)                        ^ SyntaxError: expected ':' 
+    7|   Syntax Error   | 0.04015803337097168  |  line 6     def add(num1, num2)                        ^ SyntaxError: expected ':' 
+    8|   Syntax Error   | 0.048651695251464844 |  line 6     def add(num1, num2)                        ^ SyntaxError: expected ':' 
+    9|   Syntax Error   | 0.040006399154663086 |  line 6     def add(num1, num2)                        ^ SyntaxError: expected ':' 
+   10|   Syntax Error   | 0.039472103118896484 |  line 6     def add(num1, num2)                        ^ SyntaxError: expected ':' 

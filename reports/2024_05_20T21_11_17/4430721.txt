@@ -1,0 +1,39 @@
+**total score: 13**
+-------------------------------
+task 1:
+-------------------------------
+case |      status      |       time (s)       |note
+    1|  Correct Answer  | 0.034947872161865234 |
+    2|  Correct Answer  | 0.03137946128845215  |
+    3|  Correct Answer  | 0.04196596145629883  |
+    4|  Correct Answer  | 0.03371548652648926  |
+    5|  Correct Answer  | 0.03229379653930664  |
+    6|  Correct Answer  | 0.03171229362487793  |
+    7|  Correct Answer  | 0.043279170989990234 |
+    8|  Correct Answer  | 0.03364396095275879  |
+task 2:
+-------------------------------
+case |      status      |       time (s)       |note
+    1|   Wrong Answer   | 0.03545355796813965  |
+    2|   Wrong Answer   | 0.034987449645996094 |
+    3|   Wrong Answer   | 0.03188800811767578  |
+    4|   Wrong Answer   | 0.032991886138916016 |
+    5|   Wrong Answer   | 0.03222775459289551  |
+    6|   Wrong Answer   | 0.029613018035888672 |
+    7|   Wrong Answer   | 0.03149580955505371  |
+    8|   Wrong Answer   | 0.031833648681640625 |
+    9|   Wrong Answer   | 0.036698102951049805 |
+   10|   Wrong Answer   | 0.03260207176208496  |
+task 3:
+-------------------------------
+case |      status      |       time (s)       |note
+    1|   Wrong Answer   | 0.03244900703430176  |
+    2|   Wrong Answer   | 0.041460514068603516 |
+    3|   Wrong Answer   |  0.0338590145111084  |
+    4|   Wrong Answer   | 0.03407478332519531  |
+    5|   Wrong Answer   | 0.03379178047180176  |
+    6|   Wrong Answer   | 0.032209157943725586 |
+    7|   Wrong Answer   | 0.03327512741088867  |
+    8|   Wrong Answer   | 0.032904624938964844 |
+    9|   Wrong Answer   | 0.04687786102294922  |
+   10|   Wrong Answer   | 0.02939319610595703  |

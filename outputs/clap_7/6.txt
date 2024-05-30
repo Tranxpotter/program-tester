@@ -1,0 +1,10 @@
+1 2 3 4 5 6 Clap 8 9 10 
+11 12 13 Clap 15 16 Clap 18 19 20 
+Clap 22 23 24 25 26 Clap Clap 29 30 
+31 32 33 34 Clap 36 Clap 38 39 40 
+41 Clap 43 44 45 46 Clap 48 Clap 50 
+51 52 53 54 55 Clap Clap 58 59 60 
+61 62 Clap 64 65 66 Clap 68 69 Clap 
+Clap Clap Clap Clap Clap Clap Clap Clap Clap 80 
+81 82 83 Clap 85 86 Clap 88 89 90 
+Clap 92 93 94 95 96 Clap Clap 99 100 

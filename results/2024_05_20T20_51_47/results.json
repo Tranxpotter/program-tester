@@ -1,0 +1,930 @@
+{
+    "3844611": {
+        "1": [
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.03137826919555664,
+                "output": "",
+                "answer": "1 Clap 3 Clap 5 Clap 7 Clap 9 Clap \n11 Clap 13 Clap 15 Clap 17 Clap 19 Clap \nClap Clap Clap Clap Clap Clap Clap Clap Clap Clap \n31 Clap 33 Clap 35 Clap 37 Clap 39 Clap \n41 Clap 43 Clap 45 Clap 47 Clap 49 Clap \n51 Clap 53 Clap 55 Clap 57 Clap 59 Clap \n61 Clap 63 Clap 65 Clap 67 Clap 69 Clap \n71 Clap 73 Clap 75 Clap 77 Clap 79 Clap \n81 Clap 83 Clap 85 Clap 87 Clap 89 Clap \n91 Clap 93 Clap 95 Clap 97 Clap 99 Clap "
+            },
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.030546188354492188,
+                "output": "",
+                "answer": "1 2 Clap 4 5 Clap 7 8 Clap 10 \n11 Clap Clap 14 Clap 16 17 Clap 19 20 \nClap 22 Clap Clap 25 26 Clap 28 29 Clap \nClap Clap Clap Clap Clap Clap Clap Clap Clap 40 \n41 Clap Clap 44 Clap 46 47 Clap 49 50 \nClap 52 Clap Clap 55 56 Clap 58 59 Clap \n61 62 Clap 64 65 Clap 67 68 Clap 70 \n71 Clap Clap 74 Clap 76 77 Clap 79 80 \nClap 82 Clap Clap 85 86 Clap 88 89 Clap \n91 92 Clap 94 95 Clap 97 98 Clap 100 "
+            },
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.030846357345581055,
+                "output": "",
+                "answer": "1 2 3 Clap 5 6 7 Clap 9 10 \n11 Clap 13 Clap 15 Clap 17 18 19 Clap \n21 22 23 Clap 25 26 27 Clap 29 30 \n31 Clap 33 Clap 35 Clap 37 38 39 Clap \nClap Clap Clap Clap Clap Clap Clap Clap Clap 50 \n51 Clap 53 Clap 55 Clap 57 58 59 Clap \n61 62 63 Clap 65 66 67 Clap 69 70 \n71 Clap 73 Clap 75 Clap 77 78 79 Clap \n81 82 83 Clap 85 86 87 Clap 89 90 \n91 Clap 93 Clap 95 Clap 97 98 99 Clap "
+            },
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.03445267677307129,
+                "output": "",
+                "answer": "1 2 3 4 Clap 6 7 8 9 Clap \n11 12 13 14 Clap 16 17 18 19 Clap \n21 22 23 24 Clap 26 27 28 29 Clap \n31 32 33 34 Clap 36 37 38 39 Clap \n41 42 43 44 Clap 46 47 48 49 Clap \nClap Clap Clap Clap Clap Clap Clap Clap Clap Clap \n61 62 63 64 Clap 66 67 68 69 Clap \n71 72 73 74 Clap 76 77 78 79 Clap \n81 82 83 84 Clap 86 87 88 89 Clap \n91 92 93 94 Clap 96 97 98 99 Clap "
+            },
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.03330731391906738,
+                "output": "",
+                "answer": "1 2 3 4 5 Clap 7 8 9 10 \n11 Clap 13 14 15 Clap 17 Clap 19 20 \n21 22 23 Clap 25 Clap 27 28 29 Clap \n31 32 33 34 35 Clap 37 38 39 40 \n41 Clap 43 44 45 Clap 47 Clap 49 50 \n51 52 53 Clap 55 Clap 57 58 59 Clap \nClap Clap Clap Clap Clap Clap Clap Clap Clap 70 \n71 Clap 73 74 75 Clap 77 Clap 79 80 \n81 82 83 Clap 85 Clap 87 88 89 Clap \n91 92 93 94 95 Clap 97 98 99 100 "
+            },
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.03227853775024414,
+                "output": "",
+                "answer": "1 2 3 4 5 6 Clap 8 9 10 \n11 12 13 Clap 15 16 Clap 18 19 20 \nClap 22 23 24 25 26 Clap Clap 29 30 \n31 32 33 34 Clap 36 Clap 38 39 40 \n41 Clap 43 44 45 46 Clap 48 Clap 50 \n51 52 53 54 55 Clap Clap 58 59 60 \n61 62 Clap 64 65 66 Clap 68 69 Clap \nClap Clap Clap Clap Clap Clap Clap Clap Clap 80 \n81 82 83 Clap 85 86 Clap 88 89 90 \nClap 92 93 94 95 96 Clap Clap 99 100 "
+            },
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.03258061408996582,
+                "output": "",
+                "answer": "1 2 3 4 5 6 7 Clap 9 10 \n11 12 13 14 15 Clap 17 Clap 19 20 \n21 22 23 Clap 25 26 27 Clap 29 30 \n31 Clap 33 34 35 36 37 Clap 39 Clap \n41 42 43 44 45 46 47 Clap 49 50 \n51 52 53 54 55 Clap 57 Clap 59 60 \n61 62 63 Clap 65 66 67 Clap 69 70 \n71 Clap 73 74 75 76 77 Clap 79 Clap \nClap Clap Clap Clap Clap Clap Clap Clap Clap 90 \n91 92 93 94 95 Clap 97 Clap 99 100 "
+            },
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.03223061561584473,
+                "output": "",
+                "answer": "1 2 3 4 5 6 7 8 Clap 10 \n11 12 13 14 15 16 17 Clap Clap 20 \n21 22 23 24 25 26 Clap 28 Clap 30 \n31 32 33 34 35 Clap 37 38 Clap 40 \n41 42 43 44 Clap 46 47 48 Clap 50 \n51 52 53 Clap 55 56 57 58 Clap 60 \n61 62 Clap 64 65 66 67 68 Clap 70 \n71 Clap 73 74 75 76 77 78 Clap 80 \nClap 82 83 84 85 86 87 88 Clap Clap \nClap Clap Clap Clap Clap Clap Clap Clap Clap 100 "
+            }
+        ],
+        "2": [
+            {
+                "is_correct": false,
+                "error_type": "Syntax Error",
+                "error_msg": "  File \"C:\\Users\\Michael\\Desktop\\coding\\school\\computer club\\program tester\\temp_script.py\", line 3\n    int(N) = range(0,101) = input()\n    ^^^^^^\nSyntaxError: cannot assign to function call\n",
+                "execution_time": 0.03244924545288086,
+                "output": "",
+                "answer": "96.5"
+            },
+            {
+                "is_correct": false,
+                "error_type": "Syntax Error",
+                "error_msg": "  File \"C:\\Users\\Michael\\Desktop\\coding\\school\\computer club\\program tester\\temp_script.py\", line 3\n    int(N) = range(0,101) = input()\n    ^^^^^^\nSyntaxError: cannot assign to function call\n",
+                "execution_time": 0.03223419189453125,
+                "output": "",
+                "answer": "4997.4"
+            },
+            {
+                "is_correct": false,
+                "error_type": "Syntax Error",
+                "error_msg": "  File \"C:\\Users\\Michael\\Desktop\\coding\\school\\computer club\\program tester\\temp_script.py\", line 3\n    int(N) = range(0,101) = input()\n    ^^^^^^\nSyntaxError: cannot assign to function call\n",
+                "execution_time": 0.031943321228027344,
+                "output": "",
+                "answer": "3866.8"
+            },
+            {
+                "is_correct": false,
+                "error_type": "Syntax Error",
+                "error_msg": "  File \"C:\\Users\\Michael\\Desktop\\coding\\school\\computer club\\program tester\\temp_script.py\", line 3\n    int(N) = range(0,101) = input()\n    ^^^^^^\nSyntaxError: cannot assign to function call\n",
+                "execution_time": 0.03203272819519043,
+                "output": "",
+                "answer": "4285.8"
+            },
+            {
+                "is_correct": false,
+                "error_type": "Syntax Error",
+                "error_msg": "  File \"C:\\Users\\Michael\\Desktop\\coding\\school\\computer club\\program tester\\temp_script.py\", line 3\n    int(N) = range(0,101) = input()\n    ^^^^^^\nSyntaxError: cannot assign to function call\n",
+                "execution_time": 0.031168699264526367,
+                "output": "",
+                "answer": "2297.9"
+            },
+            {
+                "is_correct": false,
+                "error_type": "Syntax Error",
+                "error_msg": "  File \"C:\\Users\\Michael\\Desktop\\coding\\school\\computer club\\program tester\\temp_script.py\", line 3\n    int(N) = range(0,101) = input()\n    ^^^^^^\nSyntaxError: cannot assign to function call\n",
+                "execution_time": 0.03342247009277344,
+                "output": "",
+                "answer": "1941.3"
+            },
+            {
+                "is_correct": false,
+                "error_type": "Syntax Error",
+                "error_msg": "  File \"C:\\Users\\Michael\\Desktop\\coding\\school\\computer club\\program tester\\temp_script.py\", line 3\n    int(N) = range(0,101) = input()\n    ^^^^^^\nSyntaxError: cannot assign to function call\n",
+                "execution_time": 0.03357553482055664,
+                "output": "",
+                "answer": "554.6"
+            },
+            {
+                "is_correct": false,
+                "error_type": "Syntax Error",
+                "error_msg": "  File \"C:\\Users\\Michael\\Desktop\\coding\\school\\computer club\\program tester\\temp_script.py\", line 3\n    int(N) = range(0,101) = input()\n    ^^^^^^\nSyntaxError: cannot assign to function call\n",
+                "execution_time": 0.032210588455200195,
+                "output": "",
+                "answer": "781.3"
+            },
+            {
+                "is_correct": false,
+                "error_type": "Syntax Error",
+                "error_msg": "  File \"C:\\Users\\Michael\\Desktop\\coding\\school\\computer club\\program tester\\temp_script.py\", line 3\n    int(N) = range(0,101) = input()\n    ^^^^^^\nSyntaxError: cannot assign to function call\n",
+                "execution_time": 0.03545856475830078,
+                "output": "",
+                "answer": "4010.0"
+            },
+            {
+                "is_correct": false,
+                "error_type": "Syntax Error",
+                "error_msg": "  File \"C:\\Users\\Michael\\Desktop\\coding\\school\\computer club\\program tester\\temp_script.py\", line 3\n    int(N) = range(0,101) = input()\n    ^^^^^^\nSyntaxError: cannot assign to function call\n",
+                "execution_time": 0.04051661491394043,
+                "output": "",
+                "answer": "983.5"
+            }
+        ],
+        "3": [
+            {
+                "is_correct": false,
+                "error_type": "Syntax Error",
+                "error_msg": "  File \"C:\\Users\\Michael\\Desktop\\coding\\school\\computer club\\program tester\\temp_script.py\", line 6\n    def add(num1, num2)\n                       ^\nSyntaxError: expected ':'\n",
+                "execution_time": 0.03508329391479492,
+                "output": "",
+                "answer": "1.0"
+            },
+            {
+                "is_correct": false,
+                "error_type": "Syntax Error",
+                "error_msg": "  File \"C:\\Users\\Michael\\Desktop\\coding\\school\\computer club\\program tester\\temp_script.py\", line 6\n    def add(num1, num2)\n                       ^\nSyntaxError: expected ':'\n",
+                "execution_time": 0.03291010856628418,
+                "output": "",
+                "answer": "-23477201274.526924"
+            },
+            {
+                "is_correct": false,
+                "error_type": "Syntax Error",
+                "error_msg": "  File \"C:\\Users\\Michael\\Desktop\\coding\\school\\computer club\\program tester\\temp_script.py\", line 6\n    def add(num1, num2)\n                       ^\nSyntaxError: expected ':'\n",
+                "execution_time": 0.0344545841217041,
+                "output": "",
+                "answer": "18.0"
+            },
+            {
+                "is_correct": false,
+                "error_type": "Syntax Error",
+                "error_msg": "  File \"C:\\Users\\Michael\\Desktop\\coding\\school\\computer club\\program tester\\temp_script.py\", line 6\n    def add(num1, num2)\n                       ^\nSyntaxError: expected ':'\n",
+                "execution_time": 0.03346562385559082,
+                "output": "",
+                "answer": "5.0"
+            },
+            {
+                "is_correct": false,
+                "error_type": "Syntax Error",
+                "error_msg": "  File \"C:\\Users\\Michael\\Desktop\\coding\\school\\computer club\\program tester\\temp_script.py\", line 6\n    def add(num1, num2)\n                       ^\nSyntaxError: expected ':'\n",
+                "execution_time": 0.031890869140625,
+                "output": "",
+                "answer": "-794.3333333333334"
+            },
+            {
+                "is_correct": false,
+                "error_type": "Syntax Error",
+                "error_msg": "  File \"C:\\Users\\Michael\\Desktop\\coding\\school\\computer club\\program tester\\temp_script.py\", line 6\n    def add(num1, num2)\n                       ^\nSyntaxError: expected ':'\n",
+                "execution_time": 0.03503894805908203,
+                "output": "",
+                "answer": "6304.0"
+            },
+            {
+                "is_correct": false,
+                "error_type": "Syntax Error",
+                "error_msg": "  File \"C:\\Users\\Michael\\Desktop\\coding\\school\\computer club\\program tester\\temp_script.py\", line 6\n    def add(num1, num2)\n                       ^\nSyntaxError: expected ':'\n",
+                "execution_time": 0.03171205520629883,
+                "output": "",
+                "answer": "-1.9516343672715367e+28"
+            },
+            {
+                "is_correct": false,
+                "error_type": "Syntax Error",
+                "error_msg": "  File \"C:\\Users\\Michael\\Desktop\\coding\\school\\computer club\\program tester\\temp_script.py\", line 6\n    def add(num1, num2)\n                       ^\nSyntaxError: expected ':'\n",
+                "execution_time": 0.03210163116455078,
+                "output": "",
+                "answer": "-1.4614164159966455e+23"
+            },
+            {
+                "is_correct": false,
+                "error_type": "Syntax Error",
+                "error_msg": "  File \"C:\\Users\\Michael\\Desktop\\coding\\school\\computer club\\program tester\\temp_script.py\", line 6\n    def add(num1, num2)\n                       ^\nSyntaxError: expected ':'\n",
+                "execution_time": 0.031638383865356445,
+                "output": "",
+                "answer": "287324524.64275503"
+            },
+            {
+                "is_correct": false,
+                "error_type": "Syntax Error",
+                "error_msg": "  File \"C:\\Users\\Michael\\Desktop\\coding\\school\\computer club\\program tester\\temp_script.py\", line 6\n    def add(num1, num2)\n                       ^\nSyntaxError: expected ':'\n",
+                "execution_time": 0.03208494186401367,
+                "output": "",
+                "answer": "286035192.1778048"
+            }
+        ]
+    },
+    "4373753": {
+        "1": [
+            {
+                "is_correct": true,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.033759355545043945,
+                "output": "1 Clap 3 Clap 5 Clap 7 Clap 9 Clap \n11 Clap 13 Clap 15 Clap 17 Clap 19 Clap \nClap Clap Clap Clap Clap Clap Clap Clap Clap Clap \n31 Clap 33 Clap 35 Clap 37 Clap 39 Clap \n41 Clap 43 Clap 45 Clap 47 Clap 49 Clap \n51 Clap 53 Clap 55 Clap 57 Clap 59 Clap \n61 Clap 63 Clap 65 Clap 67 Clap 69 Clap \n71 Clap 73 Clap 75 Clap 77 Clap 79 Clap \n81 Clap 83 Clap 85 Clap 87 Clap 89 Clap \n91 Clap 93 Clap 95 Clap 97 Clap 99 Clap \n",
+                "answer": "1 Clap 3 Clap 5 Clap 7 Clap 9 Clap \n11 Clap 13 Clap 15 Clap 17 Clap 19 Clap \nClap Clap Clap Clap Clap Clap Clap Clap Clap Clap \n31 Clap 33 Clap 35 Clap 37 Clap 39 Clap \n41 Clap 43 Clap 45 Clap 47 Clap 49 Clap \n51 Clap 53 Clap 55 Clap 57 Clap 59 Clap \n61 Clap 63 Clap 65 Clap 67 Clap 69 Clap \n71 Clap 73 Clap 75 Clap 77 Clap 79 Clap \n81 Clap 83 Clap 85 Clap 87 Clap 89 Clap \n91 Clap 93 Clap 95 Clap 97 Clap 99 Clap "
+            },
+            {
+                "is_correct": true,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.032559871673583984,
+                "output": "1 2 Clap 4 5 Clap 7 8 Clap 10 \n11 Clap Clap 14 Clap 16 17 Clap 19 20 \nClap 22 Clap Clap 25 26 Clap 28 29 Clap \nClap Clap Clap Clap Clap Clap Clap Clap Clap 40 \n41 Clap Clap 44 Clap 46 47 Clap 49 50 \nClap 52 Clap Clap 55 56 Clap 58 59 Clap \n61 62 Clap 64 65 Clap 67 68 Clap 70 \n71 Clap Clap 74 Clap 76 77 Clap 79 80 \nClap 82 Clap Clap 85 86 Clap 88 89 Clap \n91 92 Clap 94 95 Clap 97 98 Clap 100 \n",
+                "answer": "1 2 Clap 4 5 Clap 7 8 Clap 10 \n11 Clap Clap 14 Clap 16 17 Clap 19 20 \nClap 22 Clap Clap 25 26 Clap 28 29 Clap \nClap Clap Clap Clap Clap Clap Clap Clap Clap 40 \n41 Clap Clap 44 Clap 46 47 Clap 49 50 \nClap 52 Clap Clap 55 56 Clap 58 59 Clap \n61 62 Clap 64 65 Clap 67 68 Clap 70 \n71 Clap Clap 74 Clap 76 77 Clap 79 80 \nClap 82 Clap Clap 85 86 Clap 88 89 Clap \n91 92 Clap 94 95 Clap 97 98 Clap 100 "
+            },
+            {
+                "is_correct": true,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.032706499099731445,
+                "output": "1 2 3 Clap 5 6 7 Clap 9 10 \n11 Clap 13 Clap 15 Clap 17 18 19 Clap \n21 22 23 Clap 25 26 27 Clap 29 30 \n31 Clap 33 Clap 35 Clap 37 38 39 Clap \nClap Clap Clap Clap Clap Clap Clap Clap Clap 50 \n51 Clap 53 Clap 55 Clap 57 58 59 Clap \n61 62 63 Clap 65 66 67 Clap 69 70 \n71 Clap 73 Clap 75 Clap 77 78 79 Clap \n81 82 83 Clap 85 86 87 Clap 89 90 \n91 Clap 93 Clap 95 Clap 97 98 99 Clap \n",
+                "answer": "1 2 3 Clap 5 6 7 Clap 9 10 \n11 Clap 13 Clap 15 Clap 17 18 19 Clap \n21 22 23 Clap 25 26 27 Clap 29 30 \n31 Clap 33 Clap 35 Clap 37 38 39 Clap \nClap Clap Clap Clap Clap Clap Clap Clap Clap 50 \n51 Clap 53 Clap 55 Clap 57 58 59 Clap \n61 62 63 Clap 65 66 67 Clap 69 70 \n71 Clap 73 Clap 75 Clap 77 78 79 Clap \n81 82 83 Clap 85 86 87 Clap 89 90 \n91 Clap 93 Clap 95 Clap 97 98 99 Clap "
+            },
+            {
+                "is_correct": true,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.03336644172668457,
+                "output": "1 2 3 4 Clap 6 7 8 9 Clap \n11 12 13 14 Clap 16 17 18 19 Clap \n21 22 23 24 Clap 26 27 28 29 Clap \n31 32 33 34 Clap 36 37 38 39 Clap \n41 42 43 44 Clap 46 47 48 49 Clap \nClap Clap Clap Clap Clap Clap Clap Clap Clap Clap \n61 62 63 64 Clap 66 67 68 69 Clap \n71 72 73 74 Clap 76 77 78 79 Clap \n81 82 83 84 Clap 86 87 88 89 Clap \n91 92 93 94 Clap 96 97 98 99 Clap \n",
+                "answer": "1 2 3 4 Clap 6 7 8 9 Clap \n11 12 13 14 Clap 16 17 18 19 Clap \n21 22 23 24 Clap 26 27 28 29 Clap \n31 32 33 34 Clap 36 37 38 39 Clap \n41 42 43 44 Clap 46 47 48 49 Clap \nClap Clap Clap Clap Clap Clap Clap Clap Clap Clap \n61 62 63 64 Clap 66 67 68 69 Clap \n71 72 73 74 Clap 76 77 78 79 Clap \n81 82 83 84 Clap 86 87 88 89 Clap \n91 92 93 94 Clap 96 97 98 99 Clap "
+            },
+            {
+                "is_correct": true,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.03343319892883301,
+                "output": "1 2 3 4 5 Clap 7 8 9 10 \n11 Clap 13 14 15 Clap 17 Clap 19 20 \n21 22 23 Clap 25 Clap 27 28 29 Clap \n31 32 33 34 35 Clap 37 38 39 40 \n41 Clap 43 44 45 Clap 47 Clap 49 50 \n51 52 53 Clap 55 Clap 57 58 59 Clap \nClap Clap Clap Clap Clap Clap Clap Clap Clap 70 \n71 Clap 73 74 75 Clap 77 Clap 79 80 \n81 82 83 Clap 85 Clap 87 88 89 Clap \n91 92 93 94 95 Clap 97 98 99 100 \n",
+                "answer": "1 2 3 4 5 Clap 7 8 9 10 \n11 Clap 13 14 15 Clap 17 Clap 19 20 \n21 22 23 Clap 25 Clap 27 28 29 Clap \n31 32 33 34 35 Clap 37 38 39 40 \n41 Clap 43 44 45 Clap 47 Clap 49 50 \n51 52 53 Clap 55 Clap 57 58 59 Clap \nClap Clap Clap Clap Clap Clap Clap Clap Clap 70 \n71 Clap 73 74 75 Clap 77 Clap 79 80 \n81 82 83 Clap 85 Clap 87 88 89 Clap \n91 92 93 94 95 Clap 97 98 99 100 "
+            },
+            {
+                "is_correct": true,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.0336611270904541,
+                "output": "1 2 3 4 5 6 Clap 8 9 10 \n11 12 13 Clap 15 16 Clap 18 19 20 \nClap 22 23 24 25 26 Clap Clap 29 30 \n31 32 33 34 Clap 36 Clap 38 39 40 \n41 Clap 43 44 45 46 Clap 48 Clap 50 \n51 52 53 54 55 Clap Clap 58 59 60 \n61 62 Clap 64 65 66 Clap 68 69 Clap \nClap Clap Clap Clap Clap Clap Clap Clap Clap 80 \n81 82 83 Clap 85 86 Clap 88 89 90 \nClap 92 93 94 95 96 Clap Clap 99 100 \n",
+                "answer": "1 2 3 4 5 6 Clap 8 9 10 \n11 12 13 Clap 15 16 Clap 18 19 20 \nClap 22 23 24 25 26 Clap Clap 29 30 \n31 32 33 34 Clap 36 Clap 38 39 40 \n41 Clap 43 44 45 46 Clap 48 Clap 50 \n51 52 53 54 55 Clap Clap 58 59 60 \n61 62 Clap 64 65 66 Clap 68 69 Clap \nClap Clap Clap Clap Clap Clap Clap Clap Clap 80 \n81 82 83 Clap 85 86 Clap 88 89 90 \nClap 92 93 94 95 96 Clap Clap 99 100 "
+            },
+            {
+                "is_correct": true,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.03286004066467285,
+                "output": "1 2 3 4 5 6 7 Clap 9 10 \n11 12 13 14 15 Clap 17 Clap 19 20 \n21 22 23 Clap 25 26 27 Clap 29 30 \n31 Clap 33 34 35 36 37 Clap 39 Clap \n41 42 43 44 45 46 47 Clap 49 50 \n51 52 53 54 55 Clap 57 Clap 59 60 \n61 62 63 Clap 65 66 67 Clap 69 70 \n71 Clap 73 74 75 76 77 Clap 79 Clap \nClap Clap Clap Clap Clap Clap Clap Clap Clap 90 \n91 92 93 94 95 Clap 97 Clap 99 100 \n",
+                "answer": "1 2 3 4 5 6 7 Clap 9 10 \n11 12 13 14 15 Clap 17 Clap 19 20 \n21 22 23 Clap 25 26 27 Clap 29 30 \n31 Clap 33 34 35 36 37 Clap 39 Clap \n41 42 43 44 45 46 47 Clap 49 50 \n51 52 53 54 55 Clap 57 Clap 59 60 \n61 62 63 Clap 65 66 67 Clap 69 70 \n71 Clap 73 74 75 76 77 Clap 79 Clap \nClap Clap Clap Clap Clap Clap Clap Clap Clap 90 \n91 92 93 94 95 Clap 97 Clap 99 100 "
+            },
+            {
+                "is_correct": true,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.034406423568725586,
+                "output": "1 2 3 4 5 6 7 8 Clap 10 \n11 12 13 14 15 16 17 Clap Clap 20 \n21 22 23 24 25 26 Clap 28 Clap 30 \n31 32 33 34 35 Clap 37 38 Clap 40 \n41 42 43 44 Clap 46 47 48 Clap 50 \n51 52 53 Clap 55 56 57 58 Clap 60 \n61 62 Clap 64 65 66 67 68 Clap 70 \n71 Clap 73 74 75 76 77 78 Clap 80 \nClap 82 83 84 85 86 87 88 Clap Clap \nClap Clap Clap Clap Clap Clap Clap Clap Clap 100 \n",
+                "answer": "1 2 3 4 5 6 7 8 Clap 10 \n11 12 13 14 15 16 17 Clap Clap 20 \n21 22 23 24 25 26 Clap 28 Clap 30 \n31 32 33 34 35 Clap 37 38 Clap 40 \n41 42 43 44 Clap 46 47 48 Clap 50 \n51 52 53 Clap 55 56 57 58 Clap 60 \n61 62 Clap 64 65 66 67 68 Clap 70 \n71 Clap 73 74 75 76 77 78 Clap 80 \nClap 82 83 84 85 86 87 88 Clap Clap \nClap Clap Clap Clap Clap Clap Clap Clap Clap 100 "
+            }
+        ],
+        "2": [
+            {
+                "is_correct": true,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.034403085708618164,
+                "output": "96.5\n",
+                "answer": "96.5"
+            },
+            {
+                "is_correct": true,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.03436994552612305,
+                "output": "4997.4\n",
+                "answer": "4997.4"
+            },
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.03313016891479492,
+                "output": "3866.7999999999984\n",
+                "answer": "3866.8"
+            },
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.034331560134887695,
+                "output": "4285.799999999998\n",
+                "answer": "4285.8"
+            },
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.031952857971191406,
+                "output": "2297.900000000001\n",
+                "answer": "2297.9"
+            },
+            {
+                "is_correct": true,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.03127861022949219,
+                "output": "1941.3\n",
+                "answer": "1941.3"
+            },
+            {
+                "is_correct": true,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.033003807067871094,
+                "output": "554.6\n",
+                "answer": "554.6"
+            },
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.03316974639892578,
+                "output": "781.3000000000001\n",
+                "answer": "781.3"
+            },
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.031681060791015625,
+                "output": "4010.0000000000005\n",
+                "answer": "4010.0"
+            },
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.03275299072265625,
+                "output": "983.4999999999999\n",
+                "answer": "983.5"
+            }
+        ],
+        "3": [
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.033887624740600586,
+                "output": "1\n",
+                "answer": "1.0"
+            },
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.033269643783569336,
+                "output": "-6.049745398429802e+51\n",
+                "answer": "-23477201274.526924"
+            },
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.03232836723327637,
+                "output": "18\n",
+                "answer": "18.0"
+            },
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.03217458724975586,
+                "output": "5\n",
+                "answer": "5.0"
+            },
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.032810211181640625,
+                "output": "-798\n",
+                "answer": "-794.3333333333334"
+            },
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.03241395950317383,
+                "output": "634\n",
+                "answer": "6304.0"
+            },
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.03487038612365723,
+                "output": "-40191260647457641968907174164598125\n",
+                "answer": "-1.9516343672715367e+28"
+            },
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.03300619125366211,
+                "output": "0\n",
+                "answer": "-1.4614164159966455e+23"
+            },
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.03495025634765625,
+                "output": "8078767542352397475756780525267177512707879\n",
+                "answer": "287324524.64275503"
+            },
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.03319859504699707,
+                "output": "9.005415139048066e+89\n",
+                "answer": "286035192.1778048"
+            }
+        ]
+    },
+    "4430721": {
+        "1": [
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.036116600036621094,
+                "output": "1 Clap 3 Clap 5 Clap 7 Clap 9 Clap\n11 Clap 13 Clap 15 Clap 17 Clap 19 Clap\nClap Clap Clap Clap Clap Clap Clap Clap Clap Clap\n31 Clap 33 Clap 35 Clap 37 Clap 39 Clap\n41 Clap 43 Clap 45 Clap 47 Clap 49 Clap\n51 Clap 53 Clap 55 Clap 57 Clap 59 Clap\n61 Clap 63 Clap 65 Clap 67 Clap 69 Clap\n71 Clap 73 Clap 75 Clap 77 Clap 79 Clap\n81 Clap 83 Clap 85 Clap 87 Clap 89 Clap\n91 Clap 93 Clap 95 Clap 97 Clap 99 Clap\n",
+                "answer": "1 Clap 3 Clap 5 Clap 7 Clap 9 Clap \n11 Clap 13 Clap 15 Clap 17 Clap 19 Clap \nClap Clap Clap Clap Clap Clap Clap Clap Clap Clap \n31 Clap 33 Clap 35 Clap 37 Clap 39 Clap \n41 Clap 43 Clap 45 Clap 47 Clap 49 Clap \n51 Clap 53 Clap 55 Clap 57 Clap 59 Clap \n61 Clap 63 Clap 65 Clap 67 Clap 69 Clap \n71 Clap 73 Clap 75 Clap 77 Clap 79 Clap \n81 Clap 83 Clap 85 Clap 87 Clap 89 Clap \n91 Clap 93 Clap 95 Clap 97 Clap 99 Clap "
+            },
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.03148460388183594,
+                "output": "1 2 Clap 4 5 Clap 7 8 Clap 10\n11 Clap 13 14 Clap 16 17 Clap 19 20\nClap 22 23 Clap 25 26 Clap 28 29 Clap\nClap Clap Clap Clap Clap Clap Clap Clap Clap 40\n41 Clap 43 44 Clap 46 47 Clap 49 50\nClap 52 53 Clap 55 56 Clap 58 59 Clap\n61 62 Clap 64 65 Clap 67 68 Clap 70\n71 Clap 73 74 Clap 76 77 Clap 79 80\nClap 82 83 Clap 85 86 Clap 88 89 Clap\n91 92 Clap 94 95 Clap 97 98 Clap 100\n",
+                "answer": "1 2 Clap 4 5 Clap 7 8 Clap 10 \n11 Clap Clap 14 Clap 16 17 Clap 19 20 \nClap 22 Clap Clap 25 26 Clap 28 29 Clap \nClap Clap Clap Clap Clap Clap Clap Clap Clap 40 \n41 Clap Clap 44 Clap 46 47 Clap 49 50 \nClap 52 Clap Clap 55 56 Clap 58 59 Clap \n61 62 Clap 64 65 Clap 67 68 Clap 70 \n71 Clap Clap 74 Clap 76 77 Clap 79 80 \nClap 82 Clap Clap 85 86 Clap 88 89 Clap \n91 92 Clap 94 95 Clap 97 98 Clap 100 "
+            },
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.03552699089050293,
+                "output": "1 2 3 Clap 5 6 7 Clap 9 10\n11 Clap 13 14 15 Clap 17 18 19 Clap\n21 22 23 Clap 25 26 27 Clap 29 30\n31 Clap 33 34 35 Clap 37 38 39 Clap\nClap Clap Clap Clap Clap Clap Clap Clap Clap 50\n51 Clap 53 54 55 Clap 57 58 59 Clap\n61 62 63 Clap 65 66 67 Clap 69 70\n71 Clap 73 74 75 Clap 77 78 79 Clap\n81 82 83 Clap 85 86 87 Clap 89 90\n91 Clap 93 94 95 Clap 97 98 99 Clap\n",
+                "answer": "1 2 3 Clap 5 6 7 Clap 9 10 \n11 Clap 13 Clap 15 Clap 17 18 19 Clap \n21 22 23 Clap 25 26 27 Clap 29 30 \n31 Clap 33 Clap 35 Clap 37 38 39 Clap \nClap Clap Clap Clap Clap Clap Clap Clap Clap 50 \n51 Clap 53 Clap 55 Clap 57 58 59 Clap \n61 62 63 Clap 65 66 67 Clap 69 70 \n71 Clap 73 Clap 75 Clap 77 78 79 Clap \n81 82 83 Clap 85 86 87 Clap 89 90 \n91 Clap 93 Clap 95 Clap 97 98 99 Clap "
+            },
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.032279014587402344,
+                "output": "1 2 3 4 Clap 6 7 8 9 Clap\n11 12 13 14 Clap 16 17 18 19 Clap\n21 22 23 24 Clap 26 27 28 29 Clap\n31 32 33 34 Clap 36 37 38 39 Clap\n41 42 43 44 Clap 46 47 48 49 Clap\nClap Clap Clap Clap Clap Clap Clap Clap Clap Clap\n61 62 63 64 Clap 66 67 68 69 Clap\n71 72 73 74 Clap 76 77 78 79 Clap\n81 82 83 84 Clap 86 87 88 89 Clap\n91 92 93 94 Clap 96 97 98 99 Clap\n",
+                "answer": "1 2 3 4 Clap 6 7 8 9 Clap \n11 12 13 14 Clap 16 17 18 19 Clap \n21 22 23 24 Clap 26 27 28 29 Clap \n31 32 33 34 Clap 36 37 38 39 Clap \n41 42 43 44 Clap 46 47 48 49 Clap \nClap Clap Clap Clap Clap Clap Clap Clap Clap Clap \n61 62 63 64 Clap 66 67 68 69 Clap \n71 72 73 74 Clap 76 77 78 79 Clap \n81 82 83 84 Clap 86 87 88 89 Clap \n91 92 93 94 Clap 96 97 98 99 Clap "
+            },
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.033219099044799805,
+                "output": "1 2 3 4 5 Clap 7 8 9 10\n11 Clap 13 14 15 16 17 Clap 19 20\n21 22 23 Clap 25 26 27 28 29 Clap\n31 32 33 34 35 Clap 37 38 39 40\n41 Clap 43 44 45 46 47 Clap 49 50\n51 52 53 Clap 55 56 57 58 59 Clap\nClap Clap Clap Clap Clap Clap Clap Clap Clap 70\n71 Clap 73 74 75 76 77 Clap 79 80\n81 82 83 Clap 85 86 87 88 89 Clap\n91 92 93 94 95 Clap 97 98 99 100\n",
+                "answer": "1 2 3 4 5 Clap 7 8 9 10 \n11 Clap 13 14 15 Clap 17 Clap 19 20 \n21 22 23 Clap 25 Clap 27 28 29 Clap \n31 32 33 34 35 Clap 37 38 39 40 \n41 Clap 43 44 45 Clap 47 Clap 49 50 \n51 52 53 Clap 55 Clap 57 58 59 Clap \nClap Clap Clap Clap Clap Clap Clap Clap Clap 70 \n71 Clap 73 74 75 Clap 77 Clap 79 80 \n81 82 83 Clap 85 Clap 87 88 89 Clap \n91 92 93 94 95 Clap 97 98 99 100 "
+            },
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.03195953369140625,
+                "output": "1 2 3 4 5 6 Clap 8 9 10\n11 12 13 Clap 15 16 17 18 19 20\nClap 22 23 24 25 26 27 Clap 29 30\n31 32 33 34 Clap 36 37 38 39 40\n41 Clap 43 44 45 46 47 48 Clap 50\n51 52 53 54 55 Clap 57 58 59 60\n61 62 Clap 64 65 66 67 68 69 Clap\nClap Clap Clap Clap Clap Clap Clap Clap Clap 80\n81 82 83 Clap 85 86 87 88 89 90\nClap 92 93 94 95 96 97 Clap 99 100\n",
+                "answer": "1 2 3 4 5 6 Clap 8 9 10 \n11 12 13 Clap 15 16 Clap 18 19 20 \nClap 22 23 24 25 26 Clap Clap 29 30 \n31 32 33 34 Clap 36 Clap 38 39 40 \n41 Clap 43 44 45 46 Clap 48 Clap 50 \n51 52 53 54 55 Clap Clap 58 59 60 \n61 62 Clap 64 65 66 Clap 68 69 Clap \nClap Clap Clap Clap Clap Clap Clap Clap Clap 80 \n81 82 83 Clap 85 86 Clap 88 89 90 \nClap 92 93 94 95 96 Clap Clap 99 100 "
+            },
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.03413820266723633,
+                "output": "1 2 3 4 5 6 7 Clap 9 10\n11 12 13 14 15 Clap 17 18 19 20\n21 22 23 Clap 25 26 27 28 29 30\n31 Clap 33 34 35 36 37 38 39 Clap\n41 42 43 44 45 46 47 Clap 49 50\n51 52 53 54 55 Clap 57 58 59 60\n61 62 63 Clap 65 66 67 68 69 70\n71 Clap 73 74 75 76 77 78 79 Clap\nClap Clap Clap Clap Clap Clap Clap Clap Clap 90\n91 92 93 94 95 Clap 97 98 99 100\n",
+                "answer": "1 2 3 4 5 6 7 Clap 9 10 \n11 12 13 14 15 Clap 17 Clap 19 20 \n21 22 23 Clap 25 26 27 Clap 29 30 \n31 Clap 33 34 35 36 37 Clap 39 Clap \n41 42 43 44 45 46 47 Clap 49 50 \n51 52 53 54 55 Clap 57 Clap 59 60 \n61 62 63 Clap 65 66 67 Clap 69 70 \n71 Clap 73 74 75 76 77 Clap 79 Clap \nClap Clap Clap Clap Clap Clap Clap Clap Clap 90 \n91 92 93 94 95 Clap 97 Clap 99 100 "
+            },
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.034218549728393555,
+                "output": "1 2 3 4 5 6 7 8 Clap 10\n11 12 13 14 15 16 17 Clap 19 20\n21 22 23 24 25 26 Clap 28 29 30\n31 32 33 34 35 Clap 37 38 39 40\n41 42 43 44 Clap 46 47 48 49 50\n51 52 53 Clap 55 56 57 58 59 60\n61 62 Clap 64 65 66 67 68 69 70\n71 Clap 73 74 75 76 77 78 79 80\nClap 82 83 84 85 86 87 88 89 Clap\nClap Clap Clap Clap Clap Clap Clap Clap Clap 100\n",
+                "answer": "1 2 3 4 5 6 7 8 Clap 10 \n11 12 13 14 15 16 17 Clap Clap 20 \n21 22 23 24 25 26 Clap 28 Clap 30 \n31 32 33 34 35 Clap 37 38 Clap 40 \n41 42 43 44 Clap 46 47 48 Clap 50 \n51 52 53 Clap 55 56 57 58 Clap 60 \n61 62 Clap 64 65 66 67 68 Clap 70 \n71 Clap 73 74 75 76 77 78 Clap 80 \nClap 82 83 84 85 86 87 88 Clap Clap \nClap Clap Clap Clap Clap Clap Clap Clap Clap 100 "
+            }
+        ],
+        "2": [
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.03225231170654297,
+                "output": "",
+                "answer": "96.5"
+            },
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.030539989471435547,
+                "output": "",
+                "answer": "4997.4"
+            },
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.03230786323547363,
+                "output": "",
+                "answer": "3866.8"
+            },
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.03195977210998535,
+                "output": "",
+                "answer": "4285.8"
+            },
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.03467965126037598,
+                "output": "",
+                "answer": "2297.9"
+            },
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.03301572799682617,
+                "output": "",
+                "answer": "1941.3"
+            },
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.033240556716918945,
+                "output": "",
+                "answer": "554.6"
+            },
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.03891253471374512,
+                "output": "",
+                "answer": "781.3"
+            },
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.031122922897338867,
+                "output": "",
+                "answer": "4010.0"
+            },
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.03302788734436035,
+                "output": "",
+                "answer": "983.5"
+            }
+        ],
+        "3": [
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.03166007995605469,
+                "output": "Type 1 + 1 * 3\n",
+                "answer": "1.0"
+            },
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.032515525817871094,
+                "output": "Type 1 + 1 * 3\n",
+                "answer": "-23477201274.526924"
+            },
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.0322721004486084,
+                "output": "Type 1 + 1 * 3\n",
+                "answer": "18.0"
+            },
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.03172945976257324,
+                "output": "Type 1 + 1 * 3\n",
+                "answer": "5.0"
+            },
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.03258562088012695,
+                "output": "Type 1 + 1 * 3\n",
+                "answer": "-794.3333333333334"
+            },
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.03233766555786133,
+                "output": "Type 1 + 1 * 3\n",
+                "answer": "6304.0"
+            },
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.03289389610290527,
+                "output": "Type 1 + 1 * 3\n",
+                "answer": "-1.9516343672715367e+28"
+            },
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.032439470291137695,
+                "output": "Type 1 + 1 * 3\n",
+                "answer": "-1.4614164159966455e+23"
+            },
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.034992218017578125,
+                "output": "Type 1 + 1 * 3\n",
+                "answer": "287324524.64275503"
+            },
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.03173637390136719,
+                "output": "Type 1 + 1 * 3\n",
+                "answer": "286035192.1778048"
+            }
+        ]
+    },
+    "6645650": {
+        "1": [
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.033056020736694336,
+                "output": "1  \nClap \n3  \nClap \n5  \nClap \n7  \nClap \n9  \nClap \n\n\n11  \nClap \n13  \nClap \n15  \nClap \n17  \nClap \n19  \nClap \n\n\n21  \nClap \n23  \nClap \n25  \nClap \n27  \nClap \n29  \nClap \n\n\n31  \nClap \n33  \nClap \n35  \nClap \n37  \nClap \n39  \nClap \n\n\n41  \nClap \n43  \nClap \n45  \nClap \n47  \nClap \n49  \nClap \n\n\n51  \nClap \n53  \nClap \n55  \nClap \n57  \nClap \n59  \nClap \n\n\n61  \nClap \n63  \nClap \n65  \nClap \n67  \nClap \n69  \nClap \n\n\n71  \nClap \n73  \nClap \n75  \nClap \n77  \nClap \n79  \nClap \n\n\n81  \nClap \n83  \nClap \n85  \nClap \n87  \nClap \n89  \nClap \n\n\n91  \nClap \n93  \nClap \n95  \nClap \n97  \nClap \n99  \nClap \n\n\n",
+                "answer": "1 Clap 3 Clap 5 Clap 7 Clap 9 Clap \n11 Clap 13 Clap 15 Clap 17 Clap 19 Clap \nClap Clap Clap Clap Clap Clap Clap Clap Clap Clap \n31 Clap 33 Clap 35 Clap 37 Clap 39 Clap \n41 Clap 43 Clap 45 Clap 47 Clap 49 Clap \n51 Clap 53 Clap 55 Clap 57 Clap 59 Clap \n61 Clap 63 Clap 65 Clap 67 Clap 69 Clap \n71 Clap 73 Clap 75 Clap 77 Clap 79 Clap \n81 Clap 83 Clap 85 Clap 87 Clap 89 Clap \n91 Clap 93 Clap 95 Clap 97 Clap 99 Clap "
+            },
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.03347420692443848,
+                "output": "1  \n2  \nClap \n4  \n5  \nClap \n7  \n8  \nClap \n10  \n\n\n11  \nClap \n13  \n14  \nClap \n16  \n17  \nClap \n19  \n20  \n\n\nClap \n22  \n23  \nClap \n25  \n26  \nClap \n28  \n29  \nClap \n\n\n31  \n32  \nClap \n34  \n35  \nClap \n37  \n38  \nClap \n40  \n\n\n41  \nClap \n43  \n44  \nClap \n46  \n47  \nClap \n49  \n50  \n\n\nClap \n52  \n53  \nClap \n55  \n56  \nClap \n58  \n59  \nClap \n\n\n61  \n62  \nClap \n64  \n65  \nClap \n67  \n68  \nClap \n70  \n\n\n71  \nClap \n73  \n74  \nClap \n76  \n77  \nClap \n79  \n80  \n\n\nClap \n82  \n83  \nClap \n85  \n86  \nClap \n88  \n89  \nClap \n\n\n91  \n92  \nClap \n94  \n95  \nClap \n97  \n98  \nClap \n100  \n\n\n",
+                "answer": "1 2 Clap 4 5 Clap 7 8 Clap 10 \n11 Clap Clap 14 Clap 16 17 Clap 19 20 \nClap 22 Clap Clap 25 26 Clap 28 29 Clap \nClap Clap Clap Clap Clap Clap Clap Clap Clap 40 \n41 Clap Clap 44 Clap 46 47 Clap 49 50 \nClap 52 Clap Clap 55 56 Clap 58 59 Clap \n61 62 Clap 64 65 Clap 67 68 Clap 70 \n71 Clap Clap 74 Clap 76 77 Clap 79 80 \nClap 82 Clap Clap 85 86 Clap 88 89 Clap \n91 92 Clap 94 95 Clap 97 98 Clap 100 "
+            },
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.030975341796875,
+                "output": "1  \n2  \n3  \nClap \n5  \n6  \n7  \nClap \n9  \n10  \n\n\n11  \nClap \n13  \n14  \n15  \nClap \n17  \n18  \n19  \nClap \n\n\n21  \n22  \n23  \nClap \n25  \n26  \n27  \nClap \n29  \n30  \n\n\n31  \nClap \n33  \n34  \n35  \nClap \n37  \n38  \n39  \nClap \n\n\n41  \n42  \n43  \nClap \n45  \n46  \n47  \nClap \n49  \n50  \n\n\n51  \nClap \n53  \n54  \n55  \nClap \n57  \n58  \n59  \nClap \n\n\n61  \n62  \n63  \nClap \n65  \n66  \n67  \nClap \n69  \n70  \n\n\n71  \nClap \n73  \n74  \n75  \nClap \n77  \n78  \n79  \nClap \n\n\n81  \n82  \n83  \nClap \n85  \n86  \n87  \nClap \n89  \n90  \n\n\n91  \nClap \n93  \n94  \n95  \nClap \n97  \n98  \n99  \nClap \n\n\n",
+                "answer": "1 2 3 Clap 5 6 7 Clap 9 10 \n11 Clap 13 Clap 15 Clap 17 18 19 Clap \n21 22 23 Clap 25 26 27 Clap 29 30 \n31 Clap 33 Clap 35 Clap 37 38 39 Clap \nClap Clap Clap Clap Clap Clap Clap Clap Clap 50 \n51 Clap 53 Clap 55 Clap 57 58 59 Clap \n61 62 63 Clap 65 66 67 Clap 69 70 \n71 Clap 73 Clap 75 Clap 77 78 79 Clap \n81 82 83 Clap 85 86 87 Clap 89 90 \n91 Clap 93 Clap 95 Clap 97 98 99 Clap "
+            },
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.03673076629638672,
+                "output": "1  \n2  \n3  \n4  \nClap \n6  \n7  \n8  \n9  \nClap \n\n\n11  \n12  \n13  \n14  \nClap \n16  \n17  \n18  \n19  \nClap \n\n\n21  \n22  \n23  \n24  \nClap \n26  \n27  \n28  \n29  \nClap \n\n\n31  \n32  \n33  \n34  \nClap \n36  \n37  \n38  \n39  \nClap \n\n\n41  \n42  \n43  \n44  \nClap \n46  \n47  \n48  \n49  \nClap \n\n\n51  \n52  \n53  \n54  \nClap \n56  \n57  \n58  \n59  \nClap \n\n\n61  \n62  \n63  \n64  \nClap \n66  \n67  \n68  \n69  \nClap \n\n\n71  \n72  \n73  \n74  \nClap \n76  \n77  \n78  \n79  \nClap \n\n\n81  \n82  \n83  \n84  \nClap \n86  \n87  \n88  \n89  \nClap \n\n\n91  \n92  \n93  \n94  \nClap \n96  \n97  \n98  \n99  \nClap \n\n\n",
+                "answer": "1 2 3 4 Clap 6 7 8 9 Clap \n11 12 13 14 Clap 16 17 18 19 Clap \n21 22 23 24 Clap 26 27 28 29 Clap \n31 32 33 34 Clap 36 37 38 39 Clap \n41 42 43 44 Clap 46 47 48 49 Clap \nClap Clap Clap Clap Clap Clap Clap Clap Clap Clap \n61 62 63 64 Clap 66 67 68 69 Clap \n71 72 73 74 Clap 76 77 78 79 Clap \n81 82 83 84 Clap 86 87 88 89 Clap \n91 92 93 94 Clap 96 97 98 99 Clap "
+            },
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.03137636184692383,
+                "output": "1  \n2  \n3  \n4  \n5  \nClap \n7  \n8  \n9  \n10  \n\n\n11  \nClap \n13  \n14  \n15  \n16  \n17  \nClap \n19  \n20  \n\n\n21  \n22  \n23  \nClap \n25  \n26  \n27  \n28  \n29  \nClap \n\n\n31  \n32  \n33  \n34  \n35  \nClap \n37  \n38  \n39  \n40  \n\n\n41  \nClap \n43  \n44  \n45  \n46  \n47  \nClap \n49  \n50  \n\n\n51  \n52  \n53  \nClap \n55  \n56  \n57  \n58  \n59  \nClap \n\n\n61  \n62  \n63  \n64  \n65  \nClap \n67  \n68  \n69  \n70  \n\n\n71  \nClap \n73  \n74  \n75  \n76  \n77  \nClap \n79  \n80  \n\n\n81  \n82  \n83  \nClap \n85  \n86  \n87  \n88  \n89  \nClap \n\n\n91  \n92  \n93  \n94  \n95  \nClap \n97  \n98  \n99  \n100  \n\n\n",
+                "answer": "1 2 3 4 5 Clap 7 8 9 10 \n11 Clap 13 14 15 Clap 17 Clap 19 20 \n21 22 23 Clap 25 Clap 27 28 29 Clap \n31 32 33 34 35 Clap 37 38 39 40 \n41 Clap 43 44 45 Clap 47 Clap 49 50 \n51 52 53 Clap 55 Clap 57 58 59 Clap \nClap Clap Clap Clap Clap Clap Clap Clap Clap 70 \n71 Clap 73 74 75 Clap 77 Clap 79 80 \n81 82 83 Clap 85 Clap 87 88 89 Clap \n91 92 93 94 95 Clap 97 98 99 100 "
+            },
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.033364057540893555,
+                "output": "1  \n2  \n3  \n4  \n5  \n6  \nClap \n8  \n9  \n10  \n\n\n11  \n12  \n13  \nClap \n15  \n16  \n17  \n18  \n19  \n20  \n\n\nClap \n22  \n23  \n24  \n25  \n26  \n27  \nClap \n29  \n30  \n\n\n31  \n32  \n33  \n34  \nClap \n36  \n37  \n38  \n39  \n40  \n\n\n41  \nClap \n43  \n44  \n45  \n46  \n47  \n48  \nClap \n50  \n\n\n51  \n52  \n53  \n54  \n55  \nClap \n57  \n58  \n59  \n60  \n\n\n61  \n62  \nClap \n64  \n65  \n66  \n67  \n68  \n69  \nClap \n\n\n71  \n72  \n73  \n74  \n75  \n76  \nClap \n78  \n79  \n80  \n\n\n81  \n82  \n83  \nClap \n85  \n86  \n87  \n88  \n89  \n90  \n\n\nClap \n92  \n93  \n94  \n95  \n96  \n97  \nClap \n99  \n100  \n\n\n",
+                "answer": "1 2 3 4 5 6 Clap 8 9 10 \n11 12 13 Clap 15 16 Clap 18 19 20 \nClap 22 23 24 25 26 Clap Clap 29 30 \n31 32 33 34 Clap 36 Clap 38 39 40 \n41 Clap 43 44 45 46 Clap 48 Clap 50 \n51 52 53 54 55 Clap Clap 58 59 60 \n61 62 Clap 64 65 66 Clap 68 69 Clap \nClap Clap Clap Clap Clap Clap Clap Clap Clap 80 \n81 82 83 Clap 85 86 Clap 88 89 90 \nClap 92 93 94 95 96 Clap Clap 99 100 "
+            },
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.03201770782470703,
+                "output": "1  \n2  \n3  \n4  \n5  \n6  \n7  \nClap \n9  \n10  \n\n\n11  \n12  \n13  \n14  \n15  \nClap \n17  \n18  \n19  \n20  \n\n\n21  \n22  \n23  \nClap \n25  \n26  \n27  \n28  \n29  \n30  \n\n\n31  \nClap \n33  \n34  \n35  \n36  \n37  \n38  \n39  \nClap \n\n\n41  \n42  \n43  \n44  \n45  \n46  \n47  \nClap \n49  \n50  \n\n\n51  \n52  \n53  \n54  \n55  \nClap \n57  \n58  \n59  \n60  \n\n\n61  \n62  \n63  \nClap \n65  \n66  \n67  \n68  \n69  \n70  \n\n\n71  \nClap \n73  \n74  \n75  \n76  \n77  \n78  \n79  \nClap \n\n\n81  \n82  \n83  \n84  \n85  \n86  \n87  \nClap \n89  \n90  \n\n\n91  \n92  \n93  \n94  \n95  \nClap \n97  \n98  \n99  \n100  \n\n\n",
+                "answer": "1 2 3 4 5 6 7 Clap 9 10 \n11 12 13 14 15 Clap 17 Clap 19 20 \n21 22 23 Clap 25 26 27 Clap 29 30 \n31 Clap 33 34 35 36 37 Clap 39 Clap \n41 42 43 44 45 46 47 Clap 49 50 \n51 52 53 54 55 Clap 57 Clap 59 60 \n61 62 63 Clap 65 66 67 Clap 69 70 \n71 Clap 73 74 75 76 77 Clap 79 Clap \nClap Clap Clap Clap Clap Clap Clap Clap Clap 90 \n91 92 93 94 95 Clap 97 Clap 99 100 "
+            },
+            {
+                "is_correct": false,
+                "error_type": "",
+                "error_msg": "",
+                "execution_time": 0.03276395797729492,
+                "output": "1  \n2  \n3  \n4  \n5  \n6  \n7  \n8  \nClap \n10  \n\n\n11  \n12  \n13  \n14  \n15  \n16  \n17  \nClap \n19  \n20  \n\n\n21  \n22  \n23  \n24  \n25  \n26  \nClap \n28  \n29  \n30  \n\n\n31  \n32  \n33  \n34  \n35  \nClap \n37  \n38  \n39  \n40  \n\n\n41  \n42  \n43  \n44  \nClap \n46  \n47  \n48  \n49  \n50  \n\n\n51  \n52  \n53  \nClap \n55  \n56  \n57  \n58  \n59  \n60  \n\n\n61  \n62  \nClap \n64  \n65  \n66  \n67  \n68  \n69  \n70  \n\n\n71  \nClap \n73  \n74  \n75  \n76  \n77  \n78  \n79  \n80  \n\n\nClap \n82  \n83  \n84  \n85  \n86  \n87  \n88  \n89  \nClap \n\n\n91  \n92  \n93  \n94  \n95  \n96  \n97  \n98  \nClap \n100  \n\n\n",
+                "answer": "1 2 3 4 5 6 7 8 Clap 10 \n11 12 13 14 15 16 17 Clap Clap 20 \n21 22 23 24 25 26 Clap 28 Clap 30 \n31 32 33 34 35 Clap 37 38 Clap 40 \n41 42 43 44 Clap 46 47 48 Clap 50 \n51 52 53 Clap 55 56 57 58 Clap 60 \n61 62 Clap 64 65 66 67 68 Clap 70 \n71 Clap 73 74 75 76 77 78 Clap 80 \nClap 82 83 84 85 86 87 88 Clap Clap \nClap Clap Clap Clap Clap Clap Clap Clap Clap 100 "
+            }
+        ],
+        "2": [
+            {
+                "is_correct": false,
+                "error_type": "Runtime Error",
+                "error_msg": "EOFError: EOF when reading a line\n",
+                "execution_time": 0.03422999382019043,
+                "output": "",
+                "answer": "96.5"
+            },
+            {
+                "is_correct": false,
+                "error_type": "Runtime Error",
+                "error_msg": "EOFError: EOF when reading a line\n",
+                "execution_time": 0.03378939628601074,
+                "output": "",
+                "answer": "4997.4"
+            },
+            {
+                "is_correct": false,
+                "error_type": "Runtime Error",
+                "error_msg": "TypeError: unsupported operand type(s) for +=: 'int' and 'str'\n",
+                "execution_time": 0.03253650665283203,
+                "output": "",
+                "answer": "3866.8"
+            },
+            {
+                "is_correct": false,
+                "error_type": "Runtime Error",
+                "error_msg": "KeyError: '4114951384110'\n",
+                "execution_time": 0.033086299896240234,
+                "output": "",
+                "answer": "4285.8"
+            },
+            {
+                "is_correct": false,
+                "error_type": "Runtime Error",
+                "error_msg": "KeyError: '6021087782221'\n",
+                "execution_time": 0.031615257263183594,
+                "output": "",
+                "answer": "2297.9"
+            },
+            {
+                "is_correct": false,
+                "error_type": "Runtime Error",
+                "error_msg": "EOFError: EOF when reading a line\n",
+                "execution_time": 0.03321695327758789,
+                "output": "",
+                "answer": "1941.3"
+            },
+            {
+                "is_correct": false,
+                "error_type": "Runtime Error",
+                "error_msg": "EOFError: EOF when reading a line\n",
+                "execution_time": 0.04281282424926758,
+                "output": "",
+                "answer": "554.6"
+            },
+            {
+                "is_correct": false,
+                "error_type": "Runtime Error",
+                "error_msg": "EOFError: EOF when reading a line\n",
+                "execution_time": 0.03307056427001953,
+                "output": "",
+                "answer": "781.3"
+            },
+            {
+                "is_correct": false,
+                "error_type": "Runtime Error",
+                "error_msg": "EOFError: EOF when reading a line\n",
+                "execution_time": 0.035092830657958984,
+                "output": "",
+                "answer": "4010.0"
+            },
+            {
+                "is_correct": false,
+                "error_type": "Runtime Error",
+                "error_msg": "EOFError: EOF when reading a line\n",
+                "execution_time": 0.0336151123046875,
+                "output": "",
+                "answer": "983.5"
+            }
+        ],
+        "3": [
+            {
+                "is_correct": false,
+                "error_type": "Runtime Error",
+                "error_msg": "ValueError: could not convert string to float: '6 - 2 - 3'\n",
+                "execution_time": 0.03205442428588867,
+                "output": "",
+                "answer": "1.0"
+            },
+            {
+                "is_correct": false,
+                "error_type": "Runtime Error",
+                "error_msg": "ValueError: could not convert string to float: '25 - 33 * 61 * 68 * 99 + 4 + 54 + 42 / 2 * 1 + 36 / 51 * 55 + 25 + 24 / 32 * 21 + 20 + 67 * 60 - 20 / 5 * 53 * 87 + 16 * 14 * 78 * 74 * 34 - 70 + 52 - 80 * 79 * 85 * 61 + 94 * 31 + 53 + 14 * 58 + 87 - 67 - 17 - 35 / 59 + 91 - 68 * 58 * 78 * 28 * 43 / 27 + 32 / 6 / 30 * 90 / 34 / 76 + 80 - 49 - 92 / 82 / 26 * 92 / 77 - 6 / 68 / 19 - 13 / 61 * 79 + 87 * 21 * 5 + 93 - 82 - 97 / 49 / 77 + 68 + 6 + 79 - 98 / 75 + 5 / 68 - 95 - 88 - 72 * 2 + 67 * 67 / 67 * 62 / 42 - 46 - 55 / 10 + 1 + 33 / 40 * 52 + 19 + 54 * 33 * 89 * 65 / 25 + 38 / 60 - 44 + 88 - 13 - 35 / 84 / 5 * 94 * 56 * 68 + 77 - 10 + 47 - 78 - 78 * 27 * 19 - 72 / 22 + 38 * 19 - 60 + 26 * 39 + 74 + 78 * 96 / 53 / 93 / 45 - 34 - 78 - 27 + 61 + 22 * 96 * 25 * 43 - 61 + 9 * 91 + 41 - 37 * 57 - 50 / 7 + 13 - 85 - 4 * 25 + 65 - 15 + 15 + 47 + 30 * 94 / 1 / 83 + 37 * 60 / 16 / 3 + 52 - 22 * 22 + 17 / 26 * 81 * 57 - 64 - 18 + 78 * 89 / 13 / 19 / 23 / 38 * 11 / 38 * 96 + 61 - 1 * 88 + 8 / 52 / 89 - 12 + 15 - 79 * 95 - 18 * 19 / 48 + 8 + 44 / 98 * 54 - 77 - 6 * 21 / 70 + 7 / 95 * 2 * 27 + 47 - 2 / 87 - 20 * 15 - 54 + 89 - 48 * 3 - 47 + 69 + 64 - 2 + 44 + 37 - 82 * 75 - 79 / 88 / 29 / 19 + 42 / 27 * 22 * 86 * 10 / 77 + 65 * 98 + 78 + 1 + 93 - 83 - 75 * 40 / 43 * 93 * 11 * 8 / 86 / 50 * 44 * 41 * 82 - 65 + 62 + 76 * 86 * 23 / 33 * 97 / 35 / 87 * 46 + 1 * 47 * 2 + 13 + 83 / 61 * 50 - 41 - 46 + 65 + 52 * 30 * 94 * 93 - 22 - 12 + 75 / 55 - 2 + 19 + 82 * 12 + 57 - 22 * 12 * 85 / 52 + 40 * 99 * 69 - 23 / 16 / 73 * 23 * 47 + 30 + 3 - 62 - 67 - 37 * 59 * 20 / 8 * 36 / 95 + 10 * 15 * 21 * 3 + 92 + 24 / 26 / 8 / 32 - 52 / 74 + 24 / 36 / 26 * 64 / 69 + 23 - 20 * 52 * 71 + 47 - 1 * 88 - 97 * 40 / 86 * 72 / 4 / 50 * 17 * 61 * 32 / 6 * 4 * 62 * 9 * 24 - 69 * 58 + 26 * 15 / 12 * 84 - 86 * 30 / 96 - 72 * 8 / 68 - 64 - 58 + 82 / 29 + 40 - 48 * 88 / 17 / 2 * 4 / 77 / 18 + 23 / 86 * 16 + 1 - 72 + 4 + 55 + 66 / 16 + 86 - 49 - 24 - 31 + 64 + 54 - 12 / 79 * 98 - 82 - 41 * 50 / 59 + 47 * 2 - 29 * 32 / 27 + 17 * 88 + 44 * 79 - 37 * 33 - 39 / 50 / 25 / 66 - 37 - 73 + 62 + 71 / 95 / 12 / 72 * 61 / 23 + 17 * 70 * 41 + 17 - 74 - 48 + 88 / 92 + 64 * 38 * 5 * 44 * 51 + 86 * 82 / 86 * 31 / 74 + 79 - 70 - 87 - 61 + 51 / 14 + 63 / 21 * 99 * 73 + 23 - 8 * 94 - 88 / 85 * 61 - 59 + 19 / 25 / 90 + 81 / 22 + 14 - 44 + 12 - 78 / 50 / 12 * 99 * 70 - 78 / 60 * 29 * 94 + 88 * 71 - 13 + 45 / 35 + 19 / 31 * 6 * 91 + 17 * 27 + 33 - 75 + 7 * 99 * 26 - 94 - 31 * 26 - 89 * 90 / 14 * 87 * 97 * 9 - 69 - 36 + 46 - 86 - 63 / 86 * 20 / 9 / 19 - 88 - 1 / 72 * 78 / 30 - 71 / 29 + 57 / 77 / 2 - 60 * 69 * 59 * 93 * 63 * 13 - 58 - 34 * 80 - 54 - 50 + 66 + 61 - 48 - 28 + 2 - 14 - 71 * 85 + 66 + 1 * 4 - 40 + 48 - 88 + 1 / 23 * 98 * 67 * 77 / 20 / 46 / 68 / 74 - 7 / 19 / 12 / 25 * 1 + 96 / 73 / 93 / 67 - 9 + 81 / 65 / 94 * 91 * 36 * 49 * 94 / 81 / 12 - 78 * 9 * 16 / 23 + 87 + 7 - 43 - 30 * 13 - 11 + 51 - 71 / 47 / 36 + 3 / 27 - 3 * 74 * 33 - 31 * 9 - 86 + 31 + 13 / 41 - 17 / 74 / 30 / 92 + 1 * 81 * 24 + 47 / 34 / 86 + 83 / 29 - 41 - 42 / 54 - 43 + 60 * 31 / 9 + 67 - 75 / 41 * 43 - 11 / 4 + 80 / 66 / 27 / 61 * 57 / 67 + 17 / 13 / 50 + 17 * 59 - 32 + 97 - 95 - 78 / 27 - 43 + 6 + 90 * 76 - 23 / 74 / 72 + 33 * 68 + 81 * 9 + 75 + 36 / 31 * 67 * 34 - 46 * 5 * 7 + 44 * 87 / 54 - 15 / 20 + 95 * 76 - 54 + 18 + 47 + 37 / 24 + 43 + 85 + 36 / 8 / 58 - 27 / 63 + 1 * 88 / 87 + 37 * 75 * 22 - 31 - 29 / 44 + 36 + 4 + 13 * 39 - 2 - 19 * 41 - 77 - 23 / 35 / 28 * 1 - 87 * 40 - 5 + 6 * 34 + 64 - 96 - 41 - 70 - 76 * 12 + 36 + 40 + 16 - 8 - 48 + 50 * 28 + 62 * 47 * 26 * 59 + 44 - 90 - 53 * 39 / 95 * 29 * 59 * 11 * 87 - 76 + 80 * 10 * 70 * 29 + 40 * 83 / 19 + 28 + 19 * 10 * 74 + 91 + 27 + 86 * 1 - 91 + 71 / 10 - 4 - 45 / 51 - 21 - 61 - 56 * 67 + 72 * 4 / 77 + 79 * 45 + 88 + 33 * 23 + 68 + 25 + 61 - 67 - 95 - 31 + 20 + 51 + 24 * 81 / 53 * 47 + 7 - 4 * 50 / 67 * 80 + 53 * 4 * 62 / 33 - 20 * 12 / 38 / 94 + 34 * 57 - 52 / 23 / 88 + 58 + 39 * 60 - 97 - 46 + 30 * 2 - 88 + 22 - 55 - 26 - 40 + 77 / 79 / 70 * 78 - 15 + 82 - 20 / 94 + 53 + 77 + 25 + 77 * 48 - 8 + 77 + 31 - 27 - 10 - 49 * 72 / 88 / 56 + 63 / 33 - 29 - 58 - 28 + 37 * 13 * 76 / 75 + 98 + 63 * 89 + 41 / 93 * 3 + 88 + 72 / 46 / 65 / 39 * 74 - 71 / 95 + 60 - 61 / 78 - 46 * 21 - 47 + 98 * 58 - 32 * 51 + 43 + 55 / 26 / 19 + 76 + 93 + 65 + 18 * 26 * 76 + 72 + 88 + 98 + 33 / 32 / 5 - 73 + 7 - 33 * 21 / 47 / 89 - 80 / 11 + 37 / 42 * 97 * 89 - 32 / 57 / 55 - 98 * 99 * 75 - 87 + 82 / 82 - 99 * 85 / 71 * 44 + 41 - 71 / 99 + 22 - 87 * 45 * 42 - 2 / 94 - 47 * 40 * 14 + 59 - 38 / 91 + 7 + 42 / 94 / 96 * 1 * 77 / 86 / 62 / 99 / 64 * 46 * 71 / 29 + 68 + 9 - 47 * 43 + 9 + 29 / 40 * 93 * 51 * 75 * 19 + 65 / 30 * 55 - 13 * 65 - 75 * 52 - 97 / 70 + 85 - 19 - 20 / 42 + 48 - 76 + 57 - 50 - 1 - 96 / 62 - 74 * 50 * 7 - 77 + 88 + 4 / 35 * 40 + 71 + 29 - 55 - 6 * 95 / 15 - 20 - 54 / 62 * 51 + 92 + 40 * 90 * 24 - 26 * 2 * 93 - 81 + 26 - 32 - 57 / 10 * 34 * 82 + 40 / 6 - 85 - 64 + 30 / 12 / 77 / 53 / 50 / 76 - 14 / 98 / 85 / 21 / 53 * 89 - 30 * 64 / 42 * 83 - 47 / 17 / 76 + 45 * 6 / 39 + 2 + 8 - 22 - 85 / 51 - 53 + 90 + 32 / 42 * 59 / 36 / 84 / 91 + 17 + 64 / 17 + 36 * 53 / 23 / 70 + 73 - 68 / 82 '\n",
+                "execution_time": 0.03166818618774414,
+                "output": "",
+                "answer": "-23477201274.526924"
+            },
+            {
+                "is_correct": false,
+                "error_type": "Runtime Error",
+                "error_msg": "ValueError: could not convert string to float: '7 + 8 + 3'\n",
+                "execution_time": 0.032186269760131836,
+                "output": "",
+                "answer": "18.0"
+            },
+            {
+                "is_correct": false,
+                "error_type": "Runtime Error",
+                "error_msg": "ValueError: could not convert string to float: '6 * 4 / 2 - 9 + 2'\n",
+                "execution_time": 0.03287243843078613,
+                "output": "",
+                "answer": "5.0"
+            },
+            {
+                "is_correct": false,
+                "error_type": "Runtime Error",
+                "error_msg": "ValueError: could not convert string to float: '3 + 40 / 15 - 800'\n",
+                "execution_time": 0.03184962272644043,
+                "output": "",
+                "answer": "-794.3333333333334"
+            },
+            {
+                "is_correct": false,
+                "error_type": "Runtime Error",
+                "error_msg": "ValueError: could not convert string to float: '9 * 700 - 10 / 10 + 5'\n",
+                "execution_time": 0.03220534324645996,
+                "output": "",
+                "answer": "6304.0"
+            },
+            {
+                "is_correct": false,
+                "error_type": "Runtime Error",
+                "error_msg": "ValueError: could not convert string to float: '66778 / 9090 / 151 / 90019 * 32997 - 81402 + 33041 * 30164 - 55444 + 33475 * 11575 / 27543 + 97260 / 10308 * 21928 / 4732 * 98853 + 33571 / 52244 + 20220 + 64238 * 67744 * 24216 * 67343 / 89455 - 32839 * 65644 + 92931 / 57382 / 89875 + 30221 / 90469 - 13672 * 18001 - 73320 / 97972 - 45995 + 38388 / 81128 - 97835 - 16650 * 17705 * 55718 + 15557 / 90595 / 13414 / 37495 + 27863 + 16225 + 99482 * 27709 + 86014 / 16369 / 29120 * 58874 * 1295 - 15311 - 78175 - 55200 / 90019 - 82384 / 93718 * 92211 + 34516 + 70388 / 52706 - 95225 - 37464 / 44826 / 63572 * 7610 + 99477 + 3593 / 43486 * 77594 * 69808 / 41504 + 26275 - 18324 + 45420 + 29314 - 37290 / 14239 + 90716 * 68195 - 12688 / 97121 * 88492 - 55257 * 68315 - 21408 / 35646 / 523 * 28069 / 66955 + 8517 * 34753 / 74287 * 94630 - 50395 + 79131 - 40143 / 1349 / 95205 - 68646 / 62098 * 10171 - 16265 + 19673 / 79274 / 46116 + 67179 - 96759 / 99843 - 45398 + 48542 * 59876 / 82959 + 63708 * 30428 * 47445 + 36836 + 65109 + 30824 - 50151 * 96574 * 28646 * 48242 * 9755 - 70811 * 99134 / 92585 / 45000 - 499 / 60692 / 99590 * 33034 / 96140 / 81611 * 4533 - 63704 + 23416 / 25875 - 4082 * 69556 + 25811 + 51528 * 68049 / 69212 + 30442 / 94688 * 92067 * 41748 / 70473 * 35850 - 90094 + 45753 * 51818 - 27975 * 66660 * 6205 * 28155 - 67841 + 87335 + 63818 - 41089 - 94201 / 47745 + 92417 * 72734 / 55256 + 37920 + 70195 / 80947 + 62300 - 41624 - 53696 * 16510 * 10930 + 86736 - 84295 - 33247 / 48833 - 70361 * 36947 - 59608 / 35146 + 82613 / 15185 / 1287 * 15856 / 43911 / 56800 * 60575 / 31534 - 32954 * 85379 * 46754 + 73189 * 86411 / 23473 - 69985 - 91920 - 38254 - 42672 + 71688 * 85996 - 4135 / 24886 / 18418 + 8317 - 19322 * 65255 * 36067 + 25072 - 92711 - 8806 * 80641 * 40670 / 41288 * 65924 / 89000 * 78446 - 56756 * 90599 * 32156 + 71077 - 5250 - 21113 + 30177 + 76117 / 22231 - 44143 / 52994 + 40964 + 83749 - 81740 + 74999 / 45031 - 62715 / 68545 + 15676 / 2975 * 23381 / 56716 * 73903 / 30453 - 51346 - 15624 - 27315 / 28581 + 84552 / 57145 / 99359 - 65501 / 95542 * 79412 + 78972 / 97349 - 99930 / 61940 * 37852 + 16143 + 65091 + 66484 - 5206 / 6313 + 66219 * 23713 + 22426 + 36793 / 98057 / 46239 - 10193 * 19822 * 82309 * 72886 - 28732 - 24494 - 86733 * 6190 - 10027 - 5912 - 40735 * 35202 * 46642 * 97062 * 38608 * 77868 - 66338 - 58522 + 19527 + 77801 * 77548 + 93331 * 44363 + 4437 * 6713 / 25633 + 39011 - 78098 - 72834 + 92944 + 83877 / 43901 + 60137 * 39085 - 86657 * 21200 * 88510 - 50695 / 8749 / 1906 * 43899 - 22298 - 83354 / 75081 * 68254 * 21461 - 22449 / 12470 + 99894 / 21545 - 19752 - 50996 - 36276 / 85114 / 1038 + 25307 - 187 * 77941 * 22307 * 33828 / 8889 - 98067 * 11985 * 57789 + 48663 / 91587 * 9303 * 21526 / 60660 + 54555 + 73752 / 98052 / 37802 * 97332 / 50367 * 39236 - 43367 + 36170 * 5452 / 23195 - 7321 - 74664 * 2513 + 81099 / 92042 - 16851 / 22771 * 41421 + 20669 + 6927 / 41707 / 63986 + 1981 * 60411 - 35583 - 49792 + 71374 / 99002 * 27375 / 50711 - 10677 - 27623 - 3732 / 90195 + 19263 - 27445 - 36952 / 60204 - 3555 / 22729 * 10547 / 44988 - 85537 - 34513 + 96146 + 94692 / 96225 - 92644 / 17001 + 38721 / 96629 + 44863 * 91698 / 27812 + 18558 * 936 + 55498 - 89104 - 87721 / 94746 / 60805 / 58866 * 47593 + 71037 - 97027 / 864 - 23222 - 33127 - 51372 / 85399 * 2312 / 40759 * 24402 * 56019 / 52554 - 85211 - 1709 - 18563 / 48263 / 85474 - 85949 / 2629 * 69906 + 18065 + 38536 + 77622 * 14313 + 39761 * 36216 * 39828 * 89607 * 2060 / 95759 * 38752 / 62502 / 84893 / 18589 / 28920 * 94787 - 23677 + 16821 * 9467 - 87750 * 64463 - 77651 + 45009 / 26018 + 35398 + 96459 / 4248 + 70197 / 29244 / 12218 - 12816 + 27296 - 40451 * 63258 - 82747 + 68197 - 57336 * 13946 / 20405 * 56289 - 5283 / 63428 / 46152 * 36176 * 85420 / 31187 + 28020 / 23600 * 29109 / 44716 * 41830 - 45771 * 21955 + 11092 + 92644 + 58744 / 74626 - 55774 / 60074 * 25442 + 96258 - 28458 - 40996 + 30257 + 16830 / 77709 * 77768 * 24194 - 24112 + 60552 * 16206 / 55957 - 63256 + 40916 / 78270 - 91777 * 36192 * 9627 - 80788 * 6633 + 78085 - 60050 / 39503 + 56413 - 86902 / 17163 + 41953 * 38725 - 64281 + 5559 + 43944 / 8753 - 4678 - 92504 - 82514 - 97508 * 38740 / 49795 * 98483 - 43134 / 31296 + 69528 + 23538 - 41670 - 83398 + 93538 / 70782 * 91696 * 20147 + 41809 * 46129 / 8636 + 87844 + 67319 * 84245 * 44824 - 25161 + 86619 - 90552 - 67610 / 92661 / 99233 / 43476 + 77688 - 22561 / 53390 - 26471 * 81487 * 37113 - 44970 * 20226 * 38422 * 96593 / 90194 * 91503 + 65739 - 94377 - 48985 * 80083 / 21028 / 19211 - 90255 / 12951 - 63070 + 43606 * 21482 * 29769 + 9098 - 14058 + 83048 * 48699 - 91832 * 95427 / 79341 - 30107 / 59413 - 1145 / 27006 / 40828 / 41373 + 37767 * 28779 + 85677 + 70273 * 8943 - 26366 / 42849 * 59118 - 49614 / 73995 * 47254 + 98612 + 43343 / 71845 + 32558 - 80649 + 2037 * 21850 * 78791 * 81037 + 12413 - 63970 + 85077 - 70926 - 8036 + 60196 * 61497 * 22152 * 5766 * 74162 - 6887 - 32024 / 52513 - 17212 - 15456 * 87785 - 92929 / 47836 / 17429 / 32711 / 87106 + 40524 / 12766 * 7525 / 28644 / 32112 + 42625 + 72494 - 56888 * 58185 + 45156 + 99131 + 47828 + 92535 * 75'\n",
+                "execution_time": 0.03309297561645508,
+                "output": "",
+                "answer": "-1.9516343672715367e+28"
+            },
+            {
+                "is_correct": false,
+                "error_type": "Runtime Error",
+                "error_msg": "ValueError: could not convert string to float: '40549 / 28716 - 51829 - 40578 + 24370 / 51344 / 84045 - 64092 + 79526 + 5055 - 55330 - 42564 + 81491 * 26886 * 36595 * 62275 / 16363 / 39027 * 44234 + 92379 + 10934 + 18260 + 73420 - 40400 * 11016 + 707 / 17432 / 24953 + 74609 / 59004 * 50982 / 20892 * 85947 + 24026 - 90092 - 22946 / 51789 / 79178 - 72402 + 12791 - 41271 * 20456 - 65738 + 83744 + 75123 - 46888 * 20604 * 62456 + 47468 / 28446 + 24370 / 59497 + 72708 - 44873 - 76215 / 91101 + 2824 * 32515 + 73397 + 33126 / 77127 / 69500 + 49010 / 40917 * 75405 * 59464 / 81843 / 62679 / 14344 - 98937 + 70443 - 73566 / 8237 - 66062 * 26722 * 54648 - 62344 + 36964 + 61244 / 78990 * 93243 - 14264 - 5637 - 51684 + 88572 + 97721 - 31203 - 81774 + 81582 + 21068 - 20196 + 79357 * 75348 - 39243 - 25307 / 12880 / 6286 - 82178 / 2990 * 11494 * 6505 + 99947 + 73950 - 21583 - 90684 * 10298 / 61782 * 31096 * 49287 * 82042 * 76892 - 73409 + 28422 - 31455 / 52292 * 48538 + 51070 / 66856 * 17108 - 17244 / 26111 + 30934 * 80129 - 53513 + 73205 + 52604 + 81693 + 53460 / 14482 * 46967 - 20834 + 17152 + 66979 / 53646 * 58933 + 71252 - 22759 / 70650 + 5867 * 55522 / 88480 + 48526 * 57707 - 195 / 19336 + 78936 + 63804 - 52545 + 34657 * 11525 - 52987 / 50594 + 10330 - 18145 + 18257 - 52124 - 60756 - 27445 - 90672 - 56469 * 61228 / 62007 / 47257 * 42243 * 10409 * 55684 - 31395 + 29083 + 81758 + 57163 / 89028 + 94673 * 91095 - 6210 - 56583 - 36252 / 60704 - 97917 / 66750 + 69981 + 66860 * 91291 + 61150 / 51087 * 10980 * 95074 - 41802 * 70994 / 48093 + 22418 * 99016 / 27071 / 7640 + 50798 + 35473 * 45840 / 21454 * 91781 / 1886 / 81009 / 61561 * 50277 * 61299 / 58496 - 48390 + 47678 * 89693 * 20042 * 6764 / 72554 * 80813 - 38028 - 87636 + 13540 + 78966 - 82406 - 72768 + 80328 + 5396 + 52074 / 11467 - 40613 - 90972 / 47011 - 69086 * 86722 - 32452 * 17874 + 89357 / 99537 * 7357 * 82179 / 29053 / 20063 + 18606 / 21598 / 22978 / 74506 + 95023 + 13177 * 23380 * 19102 / 93867 * 14331 - 95786 - 25056 + 92716 + 17892 - 61425 / 46488 - 93147 / 11845 - 82865 / 92406 + 89570 / 37314 / 59940 * 56923 * 26152 + 98092 + 51775 * 86954 / 18265 * 12951 - 10 * 31416 * 50224 - 19964 / 3432 + 70815 * 47913 / 30070 / 8236 * 1575 - 87161 / 98291 / 98398 - 75334 - 47121 + 18708 + 76094 / 83237 / 71228 * 73199 + 18490 * 55568 - 74153 / 9113 * 17806 * 25224 - 74811 / 91511 / 89970 - 56841 * 17256 + 54339 / 33356 * 57333 / 39777 / 16692 - 95649 / 48770 - 45550 - 20130 - 88873 + 33376 + 98502 / 15349 / 64815 / 22657 * 98887 * 62163 * 73697 + 87980 / 13891 / 18818 * 5667 * 138'\n",
+                "execution_time": 0.03278541564941406,
+                "output": "",
+                "answer": "-1.4614164159966455e+23"
+            },
+            {
+                "is_correct": false,
+                "error_type": "Runtime Error",
+                "error_msg": "ValueError: could not convert string to float: '14 * 39 * 78 / 82 * 83 - 34 + 70 - 28 * 58 * 20 + 51 / 12 - 67 * 56 / 96 * 20 / 70 + 39 + 80 - 30 / 15 - 80 - 31 * 89 / 82 / 78 / 35 * 64 / 31 + 38 + 69 / 78 - 16 * 19 / 55 * 84 / 1 + 56 + 65 - 41 + 51 + 57 * 49 - 23 - 94 * 87 - 73 + 64 + 77 * 78 / 41 + 92 + 67 - 14 * 20 + 53 / 48 * 61 / 6 - 66 / 65 - 53 / 98 / 72 + 40 + 41 + 70 / 13 / 50 / 71 * 87 - 73 * 58 + 76 + 63 - 89 - 88 * 58 + 17 + 14 - 68 + 89 - 66 / 55 - 57 - 60 - 42 - 7 * 72 + 60 / 72 * 46 + 53 + 47 / 10 + 49 * 39 / 2 + 44 * 48 / 82 * 52 + 85 - 67 + 10 * 38 / 73 + 59 + 22 + 92 + 28 - 70 - 26 * 49 * 93 / 48 * 89 * 33 + 99 + 46 + 61 - 6 - 95 * 85 + 97 - 58 / 80 - 34 / 16 / 40 / 80 + 57 * 83 + 47 + 98 / 37 / 5 / 17 * 72 - 85 * 75 + 60 + 22 / 71 / 29 / 56 + 15 - 40 + 54 - 26 + 43 - 65 * 90 * 77 - 81 + 73 + 72 + 17 / 43 + 63 / 50 / 62 * 48 * 81 + 56 - 92 - 54 * 51 / 17 * 60 / 27 * 95 * 83 / 59 + 66 - 81 * 47 * 5 / 84 + 44 / 47 * 71 / 33 + 81 * 12 / 29 * 97 / 66 / 72 / 53 - 19 + 19 + 29 + 60 * 42 - 18 - 23 / 22 - 15 * 19 / 57 / 69 / 1 + 74 + 15 - 66 / 72 - 12 * 23 / 33 + 41 / 74 - 89 + 86 + 94 * 22 + 93 / 21 + 82 + 56 - 57 - 93 * 67 + 55 * 60 - 92 * 29 - 72 - 12 / 63 + 60 * 91 * 64 * 17 + 67 + 15 + 11 * 15 / 44 - 98 * 15 - 42 + 22 - 25 * 4 - 51 * 40 * 85 - 72 + 70 - 31 * 52 + 95 * 78 * 12 / 7 - 38 + 85 + 83 - 74 + 78 - 12 + 41 + 29 - 70 + 71 / 17 + 5 + 93 / 9 / 52 / 96 / 31 / 77 / 92 / 66 / 63 - 31 - 54 * 2 * 59 + 96 / 83 * 78 + 33 - 7 * 63 * 51 / 99 / 83 * 86 + 65 + 8 / 87 / 95 - 54 - 11 + 70 + 41 / 72 + 88 / 34 * 68 / 58 - 85 * 85 * 9 / 98 * 43 - 60 / 22 / 49 + 60 * 16 - 64 + 99 * 80 / 39 + 2 / 91 / 46 * 90 - 33 + 32 - 90 / 8 - 75 + 40 / 60 + 79 + 29 + 81 * 95 - 20 * 92 + 77 + 6 * 28 + 7 / 7 * 15 * 23 * 14 / 59 + 81 / 48 - 45 / 45 + 72 - 12 * 20 + 98 + 7 + 48 - 85 - 18 - 99 + 56 + 45 + 33 - 32 - 86 * 89 / 84 * 46 / 53 + 45 * 45 * 6 - 95 * 60 / 74 / 9 - 32 + 30 / 67 + 29 - 32 + 28 * 52 - 38 / 83 + 31 / 40 * 31 / 93 - 3 - 92 - 7 / 80 + 17 + 56 * 21 / 7 - 5 / 68 + 7 / 47 / 12 - 81 + 66 + 52 - 89 * 37 / 76 / 74 + 45 + 55 + 66 * 78 * 24 - 30 / 64 * 81 + 42 * 5 + 26 + 90 + 98 - 41 + 32 + 89 / 47 * 2 + 21 - 71 - 82 / 85 / 17 * 68 - 8 * 71 / 54 - 80 + 66 / 43 + 25 / 47 / 63 * 97 - 8 - 26 + 86 * 15 / 77 + 35 + 14 / 61 - 26 / 65 + 71 - 67 * 62 - 36 + 93 - 48 * 18 * 39 / 79 * 4 - 1 - 33 * 75 + 22 / 99 - 25 + 37 / 30 + 84 - 12 + 17 * 11 * 10 + 98 - 45 - 63 * 55 - 39 + 1 / 33 * 67 + 67 * 66 + 77 - 25 / 59 / 21 + 29 - 17 - 66 - 33 - 98 + 58 + 75 - 81 + 61 * 56 + 76 / 15 + 67 / 35 - 55 * 86 + 74 + 29 - 47 - 28 / 46 - 32 * 85 / 41 + 92 - 39 * 78 / 66 * 70 + 25 * 37 - 6 / 61 / 53 - 44 + 33 - 96 * 69 / 21 / 3 / 75 * 59 - 58 + 95 * 25 / 60 * 88 + 39 - 29 * 17 / 86 / 11 / 46 - 49 - 20 + 67 / 89 - 4 - 32 * 65 - 41 * 76 + 8 + 71 - 72 + 52 + 18 / 82 / 12 + 48 / 72 / 81 + 25 - 11 / 39 * 4 / 54 * 59 - 64 / 54 * 10 - 73 + 26 - 85 / 66 * 19 - 49 - 45 - 16 / 98 / 98 - 15 + 17 / 54 + 33 + 26 - 95 / 75 * 3 * 59 * 28 / 49 / 60 - 10 * 71 / 53 + 68 / 39 - 23 + 8 * 80 / 45 + 4 + 35 - 6 * 72 * 68 / 25 + 12 - 74 * 35 + 67 / 72 - 56 - 13 - 64 / 25 - 78 + 56 * 49 + 60 / 81 - 48 + 26 + 33 * 43 - 56 - 30 * 32 / 92 - 41 - 46 / 31 * 78 + 57 * 40 - 59 + 76 + 80 * 63 + 21 + 81 - 92 * 97 * 7 / 91 * 15 + 77 - 56 * 58 + 16 * 54 - 51 / 4 / 65 * 64 / 36 + 93 * 90 - 10 - 36 - 30 * 41 + 90 + 7 / 66 - 36 * 39 + 4 + 74 * 53 * 65 + 4 + 4 / 11 + 35 - 5 * 90 + 33 / 73 * 20 / 38 * 9 - 35 - 90 - 86 + 14 / 70 + 2 * 58 - 2 / 6 + 90 - 94 * 92 / 77 - 55 * 75 * 72 - 57 / 62 * 68 / 32 * 59 - 84 * 51 / 82 + 75 / 34 - 94 / 10 * 56 - 43 - 85 * 46 - 89 * 53 * 66 / 62 / 67 + 15 + 84 - 62 / 32 * 13 * 21 * 40 / 91 * 47 * 87 / 97 + 64 * 17 + 68 - 13 + 14 * 63 - 46 * 32 + 11 + 13 - 42 - 17 * 2 + 41 + 9 * 84 * 88 * 98 * 12 + 20 / 11 / 29 * 4 / 88 + 22 * 59 - 41 / 76 * 90 / 46 + 28 / 42 - 46 + 76 * 99 + 86 * 48 + 58 + 12 * 40 * 97 * 25 - 30 + 78 + 82 - 39 * 1 / 28 * 25 / 25 - 85 - 9 * 46 / 95 - 56 + 98 - 89 - 6 - 99 / 8 + 18 * 6 + 90 / 22 + 32 / 72 - 82 / 16 - 38 * 1 - 59 - 42 - 74 + 80 * 79 / 82 + 27 / 85 + 6 - 36 / 86 + 84 * 67 + 76 / 61 / 13 + 69 + 54 - 62 * 42 * 58 * 95 + 91 / 81 / 80 * 36 + 8 + 54 * 87 + 71 + 8 / 78 / 60 - 75 + 35 - 55 / 99 * 99 / 42 - 8 * 74 / 25 + 59 * 96 + 28 * 81 - 61 * 36 * 54 + 99 + 12 - 55 / 62 - 78 * 37 / 13 + 41 + 4 * 11 / 2 * 89 - 94 * 2 + 6 / 73 - 53 + 4 - 45 / 14 / 50 * 61 - 32 - 77 * 91 + 49 / 56 / 61 - 24 * 27 - 40 - 69 - 21 - 53 + 87 + 99 + 13 / 42 / 37 - 35 - 66 + 92 * 95 * 35 / 29 * 60 + 18 - 5 - 36 / 85 / 50 / 24 + 66 / 80 + 79 * 36 - 26 * 47 / 32 + 49 / 97 - 23 - 32 + 65 * 39 + 16 * 16 * 82 / 13 * 89 / 72 * 35 * 76 * 43 - 33 / 70 * 27 * 77 * 58 / 94 * 25 - 57 * 25 / 33 / 2 / 5 + 50 / 60 * 46 - 80 / 57 / 3 / 90 * 84 - 34 + 87 + 53 - 82 * 17 + 45 + 61 + 66 + 17 / 83 / 98 / 60 - 14 * 92 * 8 / 52 / 2 / 9 * 92 / 93 / 77 + 69 * 30 - 35 + 5 + 58 - 64 + 9 * 83 + 90 - 98 + 13 / 21 - 59 / 35 * 86 + 11 + 57 * 48 * 40 / 58 + 17 * 1 + 81 * 40 + 10 + 31 / 47 / 87 + 85 * 88 + 26 + 14 - 30 - 26 - 28 / 97 + 67 - 91 / 99 + 42 * 1 / 24 * 37 + 6 / 73 * 4 * 65 + 44 * 8 / 64 + 71 * 8 * 46 / 89 + 15 * 80 - 24 / 81 * 90 + 39 * 59 * 98 / 81 * 70 - 75 - 22 / 90 - 8 * 12 - 81 * 58 - 16 - 38 * 99 - 23 / 32 * 16 - 25 / 62 * 83 / 33 + 48 * 61 + 85 * 52 / 86 + 27 - 30 * 79 - 6 + 67 - 26 + 27 / 83 - 21 + 71 / 90 * 3 / 90 / 28 / 19 - 41 - 94 - 48 + 1 * 48 - 11 * 80 * 60 - 12 + 94 * 14 + 69 - 86 + 30 * 6 / 33 - 46 + 71 * 21 * 67 - 6 - 80 / 24 + 93 + 13 - 73 * 22 * 79 + 1 - 80 - 66 * 10 + 20 / 47 + 46 - 61 * 22 * 51 * 68 - 74 + 32 - 57 - 27 + 75 - 68 * 14 + 42 * 62 / 55 / 81 * 32 * 71 / 34 * 22 / 57 * 20 - 54 + 67 * 22 / 27 / 81 - 62 - 95 / 17 - 1 * 69 - 67 * 84 / 93 - 80 / 8 + 40 + 99 * 75 / 89 / 67 / 65 / 28 / 18 * 96 * 27 - 73 / 41 + 22 - 78 + 90 * 19 / 1 / 21 + 45 - 86 + 83 - 26 / 40 + 79 - 24 - 26 + 26 - 58 + 91 + 90 / 44 / 40 - 65 * 41 * 42 + 20 / 92 * 9 * 69 * 87 - 19 - 64 / 92 * 45 + 55 * 87 / 16 + 80 / 10 / 80 + 53 * 63 + 75 - 69 / 36 * 66 + 79 * 18 + 64 * 51 - 92 - 52 - 83'\n",
+                "execution_time": 0.032071590423583984,
+                "output": "",
+                "answer": "287324524.64275503"
+            },
+            {
+                "is_correct": false,
+                "error_type": "Runtime Error",
+                "error_msg": "ValueError: could not convert string to float: '24 * 33 - 83 + 40 / 19 + 56 + 63 + 49 + 24 + 67 + 22 * 33 * 44 - 26 + 2 / 52 / 12 + 1 * 10 / 37 * 41 - 60 + 69 * 43 / 38 - 35 - 6 + 40 - 71 * 45 + 19 / 7 / 78 + 53 * 57 - 1 - 78 / 20 / 5 - 1 / 61 * 6 - 77 + 44 * 3 - 22 - 33 / 1 / 26 * 32 / 15 * 90 / 30 - 5 + 81 - 90 / 36 / 17 - 67 / 50 + 77 + 11 * 95 / 31 * 93 + 50 + 89 + 44 * 60 - 98 * 21 / 12 + 42 - 40 * 56 * 54 * 5 + 14 - 84 + 92 - 75 + 59 * 75 - 94 + 40 - 67 + 23 / 39 - 76 + 88 - 84 / 17 * 50 + 43 + 6 * 33 - 48 + 63 - 84 - 51 * 25 * 19 * 22 - 57 + 24 * 30 * 73 * 85 * 16 - 60 + 81 + 45 + 71 * 56 / 51 * 84 * 89 * 69 - 94 * 21 + 83 + 84 - 74 - 89 / 62 - 18 * 55 - 4 - 51 / 5 - 5 / 29 / 50 * 29 + 69 / 99 - 75 / 7 * 41 * 55 * 13 - 45 - 41 - 8 / 53 / 69 + 82 * 70 - 40 / 89 / 5 + 53 + 22 / 37 / 37 + 48 - 25 + 76 - 29 - 19 / 87 / 92 * 23 * 72 * 29 - 1 * 34 + 64 / 6 + 62 + 75 + 29 * 5 + 86 / 6 / 55 + 25 * 90 * 39 * 88 + 29 * 19 * 11 - 69 + 42 * 49 - 38 * 66 * 67 - 71 - 69 / 77 * 78 * 9 - 54 * 70 + 19 + 54 - 54 - 34 - 5 / 34 / 68 - 26 + 56 + 23 - 90 * 30 - 40 * 76 * 86 + 9 / 4 - 62 * 48 + 97 / 5 / 19 - 62 * 65 / 1 / 44 / 51 * 96 / 98 + 19 + 68 - 64 / 46 + 96 * 11 * 18 + 89 * 74 - 94 - 73 * 53 - 41 - 88 - 92 + 22 * 10 * 60 / 4 + 7 * 27 - 53 * 75 - 72 - 89 + 9 + 37 + 67 - 58 + 58 * 35 + 46 + 48 * 25 * 27 * 46 - 48 / 56 * 51 * 77 / 96 * 69 - 89 - 79 - 82 / 39 - 84 / 19 + 43 * 74 + 31 / 70 - 12 + 64 * 35 - 48 - 23 + 70 / 11 + 75 + 54 - 25 / 20 / 89 - 23 * 21 * 47 * 11 / 87 / 65 * 90 * 84 + 55 + 79 / 48 * 61 - 23 - 38 / 91 / 25 / 84 / 79 * 80 / 5 * 63 + 31 * 58 * 71 * 83 / 16 + 26 - 82 * 22 + 9 + 67 - 61 - 72 * 49 - 12 * 90 + 59 - 8 * 4 * 91 - 9 * 89 / 29 * 64 / 41 * 52 - 52 * 71 + 30 * 35 + 99 * 74 * 64 - 26 + 58 / 77 * 85 * 61 + 39 + 50 / 94 * 83 * 20 - 10 * 44 * 5 - 54 - 35 * 54 + 20 / 8 / 75 * 92 / 92 + 47 * 95 * 1 - 41 * 99 * 79 / 42 * 92 + 14 - 8 - 81 * 88 * 42 - 40 * 14 * 85 * 8 * 25 / 85 - 31 / 7 / 67 * 45 * 8 + 45 - 66 + 91 - 42 - 39 / 26 * 32 + 98 + 31 * 47 * 4 + 17 - 64 / 28 + 45 * 76 + 90 / 5 + 85 + 95 - 41 / 71 + 60 + 70 + 63 - 11 * 1 - 46 * 79 * 23 + 88 + 56 - 88 / 36 / 77 - 21 - 66 / 9 + 78 - 27 - 95 / 96 + 2 - 33 - 72 - 15 / 51 * 19 - 59 + 13 / 94 + 60 - 46 - 70 - 59 / 37 + 44 - 51 - 62 / 26 * 46 - 8 + 5 / 56 + 77 / 43 * 91 + 65 / 35 * 91 * 28 * 26 / 52 * 32 - 95 + 56 - 96 * 94 / 47 + 40 + 39 - 63 + 95 * 77 + 22 + 93 + 7 / 7 - 68 / 55 * 82 * 85 * 2 + 99 * 8 + 49 + 70 + 24 - 21 * 23 + 37 + 87 * 25 / 39 / 25 + 52 * 86 + 10 * 74 * 73 * 52 - 39 / 78 / 61 - 11 + 89 / 89 + 32 - 68 - 63 - 69 - 62 / 74 + 50 - 97 / 42 + 79 / 8 - 50 / 94 * 79 * 54 + 83 + 36 * 96 - 97 - 29 * 61 + 3 * 22 + 12 * 84 / 25 / 42 * 44 * 94 - 18 * 73 * 47 / 60 * 33 - 18 - 44 * 38 / 41 * 11 / 54 / 28 + 10 - 3 + 37 + 55 * 4 - 80 + 82 / 56 - 45 * 85 / 53 * 82 + 78 + 36 - 4 - 32 / 97 + 40 / 85 / 28 * 45 * 83 + 71 - 73 + 23 - 53 - 13 * 45 + 81 * 15 + 55 + 17 - 99 / 39 * 6 * 52 + 84 * 28 + 60 * 31 - 36 * 81 * 1 - 69 * 28 - 81 / 66 - 32 * 80 - 7 - 61 / 15 + 16 + 3 - 72 * 49 - 53 / 98 * 92 - 22 / 29 * 20 - 87 / 32 - 10 + 41 / 84 - 45 / 59 / 18 - 18 + 28 / 25 + 35 * 48 * 71 * 87 * 18 * 31 / 28 * 53 / 89 - 79 - 4 * 8 + 42 + 63 / 83 + 59 * 88 - 77 - 72 + 80 / 26 - 86 / 44 - 45 / 83 * 70 - 45 + 72 * 43 - 81 / 88 - 43 / 69 - 2 - 82 - 17 - 4 - 5 * 56 * 95 - 29 - 27 + 70 * 60 + 70 + 78 / 6 + 49 / 89 / 59 - 70 / 97 - 61 - 3 + 44 - 83 + 58 + 38 + 13 / 81 * 57 * 25 - 1 - 51 / 54 + 79 / 40 / 8 * 37 / 52 + 90 * 47 / 23 * 40 * 74 * 76 + 80 - 48 + 18 - 33 * 99 - 75 * 76 - 62 / 85 + 93 + 12 / 36 / 14 * 21 + 13 * 84 + 20 - 54 - 3 / 38 + 57 * 71 + 77 / 23 / 4 * 25 / 85 + 31 + 64 - 38 / 77 / 28 * 26 * 81 + 31 + 23 * 52 + 8 * 39 * 93 + 39 + 3 * 59 + 53 - 87 + 54 / 45 / 46 / 29 - 54 - 70 - 88 - 75 * 21 * 3 / 43 + 14 + 19 / 20 / 46 - 1 - 4 / 51 / 41 - 20 * 88 * 55 * 36 / 37 / 76 / 98 + 99 / 28 / 40 * 38 / 60 + 92 * 32 / 76 / 64 + 94 + 88 * 18 - 46 - 87 - 2 - 63 + 99 + 28 + 58 / 24 + 69 - 28 + 62 / 13 / 27 - 34 - 88 + 50 + 88 / 6 + 82 + 64 * 14 / 44 - 53 * 95 / 92 + 1 + 33 / 62 + 33 / 41 + 96 + 10 * 91 - 78 * 31 / 13 - 70 + 36 * 24 - 47 * 24 * 41 + 20 + 49 - 55 / 78 + 16 - 50 - 62 - 89 + 54 * 62 + 68 + 80 + 81 + 87 - 49 / 7'\n",
+                "execution_time": 0.03347897529602051,
+                "output": "",
+                "answer": "286035192.1778048"
+            }
+        ]
+    }
+}
